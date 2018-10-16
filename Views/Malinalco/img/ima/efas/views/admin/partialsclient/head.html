@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC>
+<!--
+-->
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>OVEJA NEGRA</title>
+<!--<link  rel="stylesheet" type="text/css" media="screen" href="../../../resources/css/style.css">-->
+<link  rel="stylesheet" type="text/css" media="screen" href="../../../resources/css/estilo.css">
+ <link rel="stylesheet" type="text/css" href="../../../resources/css/materialize.css">
+ <link href="../../../resources/css/least.min.css" rel="stylesheet" />
+ <link href="../../../font/material-icons" rel="stylesheet">
+<link href="../../../resources/font/material-icons.css" rel="stylesheet">
+  <script type="text/javascript" src="../../../resources/js/materialize.js"></script>
+  <script type="text/javascript" src="../../../resources/js/jquery.js"></script>
+  <script type="text/javascript" src="../../../resources/js/materialize.js"></script>
+
+ <script  type="text/javascript" src="../../../resources/js/jquery.min.js"></script>
+        
+<script  type="text/javascript" src="../../../resources/js/least.min.js"></script>
+<script type="text/javascript" src="../../../resources/js/materialize.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() 
+    {
+      $('.modal-trigger').leanModal();
+      $(".button-collapse").sideNav();
+      $('#acep').click(function(event)
+      {
+        var user_name=$('#usuario').val();
+        var passw=$('#pas').val();
+
+        if (user_name=="admin" && passw=="admin") 
+        {
+          $('#modal_LOGIN').closeModal();
+          Materialize.toast('1',2000,'',function(){
+            Materialize.toast('2',1000,'',function(){
+              window.location="../../admin/";
+            });
+          });
+        } 
+        else
+        {
+          Materialize.toast('FALTAN DATOS',4000);
+        }
+        });
+            $(document).ready(function(){
+            $(".button-collapse").sideNav();
+          });
+          $(document).ready(function(){
+            $('select').material_select();
+          });
+          $(document).ready(function(){
+                $('.least-gallery').least();
+            });
+    });
+  </script>
+
+
+
+</head>
+<body>
+
+
+
+
+<!--
+
+  <nav class="nav-extended">
+    <div class="nav-wrapper  light-green">
+      <a href="#!" class="brand-logo">Evolución forestal sustentable</a>
+ 
+      <ul class="right hide-on-med-and-down">
+      <li  class="hoverable"><a href="../../../"><i class="material-icons left">home</i> INICIO</a></li>
+      <li  class ="hoverable" ><a href="../galerias/"><i class="material-icons left ">inbox</i>GALERIA</a></li>
+      <li class ="hoverable"><a href="../tramites/"><i class="material-icons left ">flag</i>TRAMITES</a></li>
+      <li class ="hoverable"><a href="../servicios/"><i class="material-icons left ">people</i>SERVICIOS</a></li>
+       <li class ="hoverable" ><a href="../registrodeclientes/"><i class="material-icons left ">sort_by_alpha </i>REGISTRO DE PROYECTOS</a></li>
+    <li  class ="hoverable"class=""><a href="../agenda/"><i class="material-icons left ">forum</i>AGENDA</a></li>
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+          <li  class="hoverable"><a href="../../../"><i class="material-icons left">home</i> INICIO</a></li>
+      <li  class ="hoverable" ><a href="../galerias/"><i class="material-icons left ">inbox</i>GALERIA</a></li>
+      <li class ="hoverable"><a href="../tramites/"><i class="material-icons left ">flag</i>TRAMITES</a></li>
+      <li class ="hoverable"><a href="../servicios/"><i class="material-icons left ">people</i>SERVICIOS</a></li>
+       <li class ="hoverable" ><a href="../registrodeclientes/"><i class="material-icons left ">sort_by_alpha </i>REGISTRO DE PROYECTOS</a></li>
+    <li  class ="hoverable"class=""><a href="../agenda/"><i class="material-icons left ">forum</i>AGENDA</a></li>
+      </ul>
+    </div>
+  </nav>
+
+
+-->
+
+
+
+
+  <nav class="nav-extended ">
+    <div class="nav-wrapper  light-green div1">
+        <a src="../../../resources/img/efas.jpg"  class="brand-logo   div1" height=150px>Evolución Forestal Ambiental Sustentable Valle De Bravo</a>
+      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="../../../"><i class="material-icons right">input</i>SALIR</a></li>
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+
+        <li><a href="../../../">SALIR</a></li>
+      </ul>
+    </div>
+
+
+    <div class="nav-wrapper  light-green">
+    
+      <ul class="right hide-on-med-and-down">
+      <li id="btn_menu_home"  class="hoverable"><a href="../../../"><i class="material-icons left">home</i> INICIO</a></li>
+      <li class ="hoverable"><a href="../tramites/"><i class="material-icons left ">flag</i>TRAMITES</a></li>
+      <li class ="hoverable"><a href="../servicios/"><i class="material-icons left ">people</i>SERVICIOS</a></li>
+       <li class ="hoverable" ><a href=""><i class="material-icons left ">sort_by_alpha </i>REGISTRO DE PROYECTOS</a></li>
+    <li  class ="hoverable"class=""><a href="../agenda/"><i class="material-icons left ">forum</i>AGENDA</a></li>
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+          <li  class="hoverable"><a href="../../../"><i class="material-icons left">home</i> INICIO</a></li>
+      <li class ="hoverable"><a href="../tramites/"><i class="material-icons left ">flag</i>TRAMITES</a></li>
+      <li class ="hoverable"><a href="../servicios/"><i class="material-icons left ">people</i>SERVICIOS</a></li>
+       <li class ="hoverable" ><a href="../registrodeclientes/"><i class="material-icons left ">sort_by_alpha </i>Asociacion</a></li>
+    <li  class ="hoverable"class=""><a href="../agenda/"><i class="material-icons left ">forum</i>AGENDA</a></li>
+      </ul>
+    </div>
+
+    </div>
+  </nav>
+
+
+    <ul >
+  <li><a href="#modal_LOGIN" class="modal-trigger  waves-light btn-large"><i class="material-icons right"></i></a></li>
+        </ul>
+  <!-- menu -->
+  <section>
+    <div id="modal_LOGIN" class="modal">
+      <div class="modal-content">
+        <h4>Ingresar a la plataforma</h4>
+        <div class="row">
+          <form class="s11">
+            <div class="row">
+              <div class="input-field col s11">
+                <i class="material-icons prefix">contacts</i>
+                <input id="usuario" type="text" class="validate">
+                <label for="usuario">USUARIO</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-field col s11">
+                <i class="material-icons prefix">lock</i>
+                <input id="pas" type="password" class="validate">
+                <label for="pas">PASSWORD</label>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <a href="#!" class="waves-effect waves-light btn" id="acep">Aceptar</a>
+      </div>
+    </div>
+  </section>
+
+
+</header>
+  
