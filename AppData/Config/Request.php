@@ -22,27 +22,26 @@ class Request
             $ruta = filter_input(INPUT_GET, 'url', FILTER_SANITIZE_URL);
             $ruta = explode("/", $ruta);
             $ruta = array_filter($ruta);
-
-            if ($ruta[0]=="index.php" || $ruta[0]=="index")
+            print_r($ruta); //sirve para imprimir arreglos
+            if ($ruta[0] == "index.php" || $ruta[0] == "index")
             {
-                $this->controlador="principal";
+                $this->controlador = "inicio";
             }
             else
             {
                 $this->controlador = strtolower(array_shift($ruta));
-                $this->metodo = strtolower(array_shift($ruta));
             }
-            if(!$this->metodo)
-            {
+            $this->metodo=strtolower(array_shift($ruta));
+            if (!$this->metodo)
                 $this->metodo="index";
-            }
+            $this->argumento=$ruta;
+        }
+        else
+        {
+            $this->controlador = "inicio";
+            $this->metodo = "index";
+        }
 
-            $this->argumento = $ruta;
-        }
-        else{
-            $this->controlador="principal";
-            $this->metodo="index";
-        }
     }
     public function getControlador()
     {
@@ -57,4 +56,3 @@ class Request
         return $this->argumento;
     }
 }
-?>

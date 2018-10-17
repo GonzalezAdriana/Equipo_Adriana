@@ -5,12 +5,12 @@ namespace AppData\Model;
 
 class conexion
 {
-    private $datos=array("server"=>"localhost","user"=>"root", "password"=>"", "db"=>"hotel");
+    private $datos=array("server"=>"localhost","user"=>"root", "password"=>"", "db"=>"pueblos");
     private $conexion;
 
     function __construct()
     {
-        $this->conexion=new \mysqli($this->datos["server"],$this->datos["user"], $this->datos["password"],$this->datos["db"]);
+        $this->conexion=new \mysqli($this->datos["server"],$this->datos["user"], $this->datos["password"],$this->datos["pueblos"]);
         $this->conexion->set_charset("utf8");
     }
 

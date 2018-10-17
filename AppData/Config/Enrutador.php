@@ -35,7 +35,7 @@ class Enrutador
         $ruta=ROOT."Views".DS.$request->getControlador().DS.$request->getMetodo().".php";
         if (is_readable($ruta))
             require_once ($ruta);
-        else
-            echo "Esta página no existe";
+        //else
+           // echo "Esta página no existe";
     }
 }
