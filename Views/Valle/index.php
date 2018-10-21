@@ -1,6 +1,0 @@
-
-
-            VALLE
-            PUEBLO MAGICO
-
-    
