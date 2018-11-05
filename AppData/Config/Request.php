@@ -5,10 +5,7 @@
  * Date: 10/05/2018
  * Time: 12:56 PM
  */
-
 namespace AppData\Config;
-
-
 class Request
 {
     private $controlador;

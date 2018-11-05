@@ -35,7 +35,6 @@ class Template
             <script src="<?php echo URL?>/Public/vendor/jquery-easing/jquery.easing.min.js"></script>
             <script src="<?php echo URL?>/Public/js/grayscale.min.js"></script>
     </head>
-
     <body>
         <main>
 
@@ -62,14 +61,11 @@ class Template
                 </div>
             </nav>
         </main>
-
-
-
         </html>
-
         <?php
     }
-    public function footer(){
+    public function footer()
+    {
         ?>
         <footer class="container">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
@@ -82,7 +78,5 @@ class Template
 
         </body>
         <?php
-
+    }
 }
-}
-
