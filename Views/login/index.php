@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="card-body">
-                <form  action="" id="save_login" enctype="multipart/form-data" autocomplete="off">
+                <form id="regusr" class="form-signin" action="<?php echo URL ?>login/guardar" method="post">
                     <div class="input-group form-group">
                         <div class="input-group-prepend">
                             <span class="input-group-text"><i class="fas fa-user"></i></span>
@@ -52,19 +52,52 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text"><i class="fas fa-key"></i></span>
                         </div>
-                        <input type="text" class="form-control" placeholder="Sexo" id="id_sexo">
-                    </div>  <div class="input-group form-group">
+                        <label for="id_sexo"></label>
+                        <select class="form-control" name="id_sexo">
+                            <option value="">Selecciona...</option>
+                            <?php
+                            if(isset($datos[0])){
+                                while($fila = mysqli_fetch_assoc($datos[0])){ ?>
+                                    <option value="<?php echo $fila['id_sexo'] ?>"><?php echo $fila['descripcion'] ?></option>
+                                <?php }
+                            }
+                            ?>
+                        </select>
+
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                        </div>
+                        <input type="text" class="form-control" placeholder="Nickname" id="nickname">
+                    </div>
+                    <div class="input-group form-group">
                         <div class="input-group-prepend">
                             <span class="input-group-text"><i class="fas fa-key"></i></span>
                         </div>
-                        <input type="number" class="form-control" placeholder="Usuario" id="id_tipo_usuario">
+                        <input type="password" class="form-control" placeholder="Contraseña" id="contraseña">
                     </div>
-                    <div class="form-group">
-                        <input href="#!"   type="submit" value="Registrar" id="save_login_ok" class="btn float-right login_btn">
 
-                        <input type="submit" value="Login" class="btn float-right login_btn">
-                    </div>
-                </form>
+
+                    <label for="id_sexo"></label>
+                    <select class="form-control" name="id_tipousuario">
+                        <select class="form-control" name="id_tipo_usuario">
+                            <option value="">Selecciona...</option>
+                            <?php
+                            if(isset($datos[1])){
+                                while($fila = mysqli_fetch_assoc($datos[1])){ ?>
+                                    <option value="<?php echo $fila['id_tipo_usuario'] ?>"><?php echo $fila['descripcion'] ?></option>
+                                <?php }
+                            }
+                            ?>
+                    </select>
+            </div>
+
+            <div class="form-group">
+                <button type="submit"  class="btn float-right login_btn">Guardar</button>
+
+            </div>
+            </form>
             </div>
             <div class="card-footer">
             </div>
@@ -75,9 +108,26 @@
 </html>
 
 <br><br><br><br>
-
-<script >
-    $ (document).on('ready'function(){
-        $('#save_login_ok').on('click'function();
-
+<script type="text/javascript">
+    $("#regusr").validate({
+        errorPlacement: function(error, element) {
+            // Append error within linked label
+            $( element )
+                .closest( "form" )
+                .find( "label[for='" + element.attr( "id" ) + "']" )
+                .after( error );
+        },
+        errorElement: "h1",
+        messages: {
+            nombre: {
+                required: "Escribe un nickname valido"
+            },
+            ap_p: {
+                required: "Escribe un apellido valido"
+            },
+            ap_m: {
+                required: " Campo requerido"
+            }
+        }
+    });
 </script>
