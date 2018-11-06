@@ -10,8 +10,12 @@
 <body>
 <div class="container">
     <div class="d-flex justify-content-center h-100">
+
         <div class="card">
             <div class="card-header"
+
+        <div class="card-1">
+            <div class="card-header">
                 <h3>Inicio de Secion</h3>
                 <div class="d-flex justify-content-end social_icon">
                     <span><i class="fab fa-facebook-square"></i></span>
@@ -69,6 +73,7 @@
 </div>
 </body>
 </html>
+
 <br><br><br><br>
 
 <script >

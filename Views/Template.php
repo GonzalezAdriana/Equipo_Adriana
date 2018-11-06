@@ -64,8 +64,9 @@ class Template
         </html>
         <?php
     }
-    public function footer()
-    {
+
+
+    public static function footer(){
         ?>
         <footer class="container">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
@@ -78,5 +79,10 @@ class Template
 
         </body>
         <?php
+
     }
 }
+
+
+
+
