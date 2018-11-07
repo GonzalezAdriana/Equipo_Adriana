@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
 html,body{
@@ -69,15 +68,14 @@ input:focus{
     margin-right: 5px;
 }
 
->>>>>>> e5af0e958e777f1f4b3b3389d2c4f06c3852595c
+
 .login_btn{
     color: black;
     background-color: #e9ecef;
     width: 140px;
 }
 
-<<<<<<< HEAD
-=======
+
 .login_btn:hover{
     color: black;
     background-color: white;
@@ -90,4 +88,4 @@ input:focus{
 .links a{
     margin-left: 4px;
 }
->>>>>>> e5af0e958e777f1f4b3b3389d2c4f06c3852595c
+
