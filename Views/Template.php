@@ -35,43 +35,35 @@ class Template
             <script src="<?php echo URL?>/Public/vendor/jquery-easing/jquery.easing.min.js"></script>
             <script src="<?php echo URL?>/Public/js/grayscale.min.js"></script>
     </head>
+
     <body>
         <main>
-
-            <title>Edomex</title>
+            <title>EDOMEX</title>
             <nav class=" bg navbar navbar-expand-lg navbar-light bg-dark fixed-top text-white"  >
                 <div class="container">
                     <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>login" class="btn btn-primary js-scroll-trigger " id="sesion ">EDOMEX</a>
                     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fas fa-bars"></i>
                     </button>
-                    <div class="collapse navbar-collapse " id="navbarResponsive">
-                        <ul class="navbar-nav ml-auto">
-                            <li class="nav-item">
-                                <a class="nav-link js-scroll-trigger text-white" href="#hace">Que hacemos</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link js-scroll-trigger text-white" href="#info">Quienes somos</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link js-scroll-trigger text-white" href="#contac">Contactanos</a>
-                            </li>
+                    <div class="collapse navbar-collapse " id="navbarResponsive"><ul class="navbar-nav ml-auto">
+
                         </ul>
                     </div>
                 </div>
             </nav>
         </main>
         </html>
+
         <?php
     }
-
-
-    public static function footer(){
+    public function footer(){
         ?>
         <footer class="container">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
                 <div class="container">
-                    <p class="  text-white">Todos los derechos reservados TESVB 2018</p>
+
+                    <p class="  text-white ">Todos los derechos reservados TESVB 2018</p>
+
                 </div>
             </nav>
 
@@ -80,9 +72,6 @@ class Template
         </body>
         <?php
 
-    }
 }
-
-
-
+}
 

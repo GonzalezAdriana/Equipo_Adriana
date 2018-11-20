@@ -1,6 +1,4 @@
-<?php
-
-namespace AppData\Config;
+<?php namespace AppData\Config;
 class Request{
     private $Controlador;
     private $Metodo;

@@ -20,7 +20,7 @@
                     <h5 class="card-title border-bottom pb-3">El Oro<a href="#" class="float-right d-inline-flex share"><i class="fas fa-share-alt text-primary"></i></a></h5>
                     <p class="card-text">Pueblo Magico en el Estado de México, es una de las antiguas glorias mineras de esta entidad del país y aún es un imán turístico.</p>
 
-                    <a href="<?php echo URL?>oro" class="float-right">Leer más  <i class="fas fa-angle-double-right"></i></a>
+                    <a href="<?php echo URL?>Oro" class="float-right">Leer más  <i class="fas fa-angle-double-right"></i></a>
 
 
                 </div>

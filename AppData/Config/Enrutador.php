@@ -1,13 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: JAZMIN
- * Date: 11/05/2018
- * Time: 07:32 AM
- */
-
-namespace AppData\Config;
-
+<?php namespace AppData\Config; //Se crea  nombre de namespace / se suele llamar boostrap
 
 class Enrutador //Se crea clase de enrutador
 {

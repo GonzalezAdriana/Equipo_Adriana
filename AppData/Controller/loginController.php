@@ -5,17 +5,25 @@
  * Date: 01/10/2018
  * Time: 07:58 AM
  */
+
 namespace AppData\Controller;
-class LoginController{
+
+
+class loginController
+{
     private $login;
-    function __construct(){
-        $this->login=new Login();
-    }
-    function index(){
 
+    public function __construct()
+    {
+        $this->login= new \AppData\Model\Login();
     }
 
-    public function verify() {
+    public function index()
+    {
+        //session_destroy();
+    }
+    public function verify()
+    {
         if(isset($_POST)) {
             $this->login->set("usuario", $_POST["usuario"]);
             $this->login->set("contraseña", $_POST["contraseña"]);
@@ -33,14 +41,18 @@ class LoginController{
             <?php
         }
     }
-    public function logout(){
+    public function logout()
+    {
         session_destroy();
+        // header("Location:".URL);
     }
+
     public function registrar(){
         $datos[0]=$this->login->getSex();
         $datos[1]=$this->login->getTiUs();
         return $datos;
     }
+
     public function guardar(){
         if(isset($_POST)){
             $this->login->set("nombre",$_POST['nombre']);
@@ -74,27 +86,7 @@ class LoginController{
             }
         }
     }
-    public function registro(){
 
-    }
-    public function guarda(){
-        if(isset($_POST)){
-            $this->login->set("nombre",$_POST['nombre']);
-            $this->login->set("ap_p",$_POST['ap_p']);
-            $this->login->set("ap_m",$_POST['ap_m']);
-            $this->login->set("edad",$_POST['edad']);
-            $this->login->set("id_sexo",$_POST['id_sexo']);
-            $this->login->set("id_tipo_usuario",$_POST['id_usuario']);
-            $this->login->insertaUsuario();
-            ?>
-            <script type="text/javascript">
-                window.location.href = "<?php echo URL?>login";
-            </script>
-            <?php
-        }
-    }
-    function __destruct(){
 
-    }
 }
-?>
+

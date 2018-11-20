@@ -28,7 +28,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca del Oro</h2><h2 align="right"  class="  text-danger" >      Como llegar a visitar el oro</h2>
+            <h2 align="left" class="  text-danger"  >Informacion acerca del Oro</h2><h2 align="right"  class="  text-danger" >       Cómo Llegar a El Oro</h2>
 
             <div class="row">
 
@@ -38,7 +38,7 @@
                         <img class="card-img-top" src="Public/img/oro3.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
                             <h5 class="card-title border-bottom pb-3">Oro<a></a></h5>
-                            <p class="card-text">Pueblo Magico en el Estado de México, al sur de Toluca, a unos siete u ocho kilómetros de la capital mexiquense, se encuentra la encantadora comunidad de Metepec.</p>
+                            <p class="card-text">Pueblo Magico en el Estado de México, al sur de Toluca, a unos siete u ocho kilómetros de la capital mexiquense, se encuentra la encantadora comunidad de Metepec. Una visita a El Oro comienza por el bello Jardín Madero, rodeado por pintorescas calles empedradas y numerosas panaderías que sirven rico café caliente y suculentos biscochos.</p>
                         </div>
                         <br><br>
                     </div>
@@ -56,33 +56,33 @@
                 </div>
 
             </div><br><br>
-            <h4>Lugares para visitar  en el Oro</h4>
+            <h4  class="  text-danger"  >Lugares para visitar en Valle de Bravo</h4>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="Public/img/valle.jpg" alt="Card image cap" width="150" height="220">
-                    <div class="card-body">
-                        <h5 class="card-title border-bottom pb-3">Valle de Bravo <a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Valle de Bravo es una oportunidad para disfrutar las atracciones de los grandes clubes de playa sin tener que salir del centro del país.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="card">
                     <img class="card-img-top" src="Public/img/oro.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
-                        <h5 class="card-title border-bottom pb-3">El Oro<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Pueblo Magico en el Estado de México, es una de las antiguas glorias mineras de esta entidad del país y aún es un imán turístico.</p>
+                        <h5 class="card-title border-bottom pb-3">Jardín Madero<a href="#" class="float-right d-inline-flex share"></a></h5>
+                        <p class="card-text">Se trata de un apacible lugar, con encantadoras bancas y una densa arboleda, ideal para observar al pueblo y su gente</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img class="card-img-top" src="Public/img/mani.jpg" alt="Card image cap"width="150" height="220">
+                    <img class="card-img-top" src="Public/img/oro1.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
-                        <h5 class="card-title border-bottom pb-3">Malinalco<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Pueblo Magico en el Estado de México,tiene hermosos paisajes naturales, una rica historia y un destacado legado arquitectónico.</p>
+                        <h5 class="card-title border-bottom pb-3">Capilla de Santa María de Guadalupe<a href="#" class="float-right d-inline-flex share"></a></h5>
+                        <p class="card-text">La fachada de este templo es sobria pero imponente, gracias a sus dos campanarios de estilo neoclásico.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="Public/img/orog.jpg" alt="Card image cap"width="150" height="220">
+                    <div class="card-body">
+                        <h5 class="card-title border-bottom pb-3">Mural Génesis Minero<a href="#" class="float-right d-inline-flex share"></a></h5>
+                        <p class="card-text">pintado por Manuel D´Rugama y que contrasta a la elegante clase potentada con los rudos y esforzados mineros que coexistían en El Oro de principios del siglo pasado..</p>
                     </div>
                     <br>
                 </div>
