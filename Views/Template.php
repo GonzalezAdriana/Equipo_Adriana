@@ -71,7 +71,8 @@ class Template
 
         </body>
         <?php
+}
+}
 
-}
-}
+
 

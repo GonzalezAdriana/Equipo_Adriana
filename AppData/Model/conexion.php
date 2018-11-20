@@ -5,7 +5,7 @@ namespace AppData\Model;
 
 class conexion
 {
-    private $datos=array("server"=>"localhost","user"=>"root", "password"=>"", "db"=>"pueblos");
+    private $datos=array("server"=>"localhost","user"=>"root", "password"=>"", "db"=>"hotel");
     private $conexion;
 
     function __construct()
