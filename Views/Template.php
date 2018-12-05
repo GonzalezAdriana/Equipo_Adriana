@@ -51,7 +51,7 @@ class Template
 
                             <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>Quienes_somos" class="btn btn-primary js-scroll-trigger " id="sesion ">Quienes somos</a>
 
-                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>login" class="btn btn-primary js-scroll-trigger " id="sesion ">Iniciar secion</a>
+                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>login" class="btn btn-primary js-scroll-trigger " id="sesion ">Iniciar sesion</a>
 
                         </ul>
                     </div>

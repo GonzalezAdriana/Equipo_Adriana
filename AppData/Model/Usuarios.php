@@ -37,7 +37,7 @@ class Usuarios
     function add()
     {
 
-        $sql="insert into {$this->tabla} values('0','{$this->nickname}','{$this->pass}','{$this->id_tipo_usuario}')";
+        $sql="insert into {$this->tabla} values('0','{$this->nickname}','{$this->pass}')";
         $this->conexion->QuerySimple($sql);
 
     }

@@ -11,13 +11,15 @@ namespace AppData\Controller;
 
 class PersonasController
 {
-private $Personas,$Sexos,$Tipos_usuarios;
+private $Personas,$Sexos,$Tipos_usuarios,$Usuarios;
 
     public function __construct()
     {
         $this->Personas= new \AppData\Model\Personas();
         $this->Sexos= new \AppData\Model\Sexos();
         $this->Tipos_usuarios= new \AppData\Model\Tipos_usuarios();
+        $this->Usuarios= new \AppData\Model\Usuarios();
+
 
     }
     public function index()
@@ -26,10 +28,12 @@ private $Personas,$Sexos,$Tipos_usuarios;
 
     $datos2=$this->Sexos->getAll();
     $datos3=$this->Tipos_usuarios->getAll();
+    $datos4=$this->Usuarios->getAll();
 
     $datos[0]=$datos1;
     $datos[1]=$datos2;
     $datos[2]=$datos3;
+    $datos[3]=$datos4;
 
 
     return $datos;
@@ -40,18 +44,43 @@ private $Personas,$Sexos,$Tipos_usuarios;
             $this->Personas->set('nombre',$_POST["nombre"]);
             $this->Personas->set('ap_p',$_POST["ap_p"]);
             $this->Personas->set('ap_m',$_POST["ap_m"]);
-            $this->Personas->set('edad',$_POST["id_edad"]);
             $this->Personas->set('id_usuario',$_POST["id_usuario"]);
+            $this->Personas->set('edad',$_POST["edad"]);
             $this->Personas->set('id_sexo',$_POST["id_sexo"]);
+            $this->Usuarios->set('nickname',$_POST["nickname"]);
+            $this->Usuarios->set('pass',$_POST["pass"]);
             $this->Personas->add();
             $datos1=$this->Personas->getAll();
             $datos[0]=$datos1;
+
+            $this->Usuarios->add();
+            $datos4=$this->Usuarios->getAll();
+            $datos[3]=$datos4;
             return $datos;
 
+            if (mysqli_num_rows($datos) > 0) { ?>
+                <script type="text/javascript">
+                    $(document).ready(function(){
+                        swal({
+                            title : " ",
+                            text : "\nGuardado correctamente",
+                            closeOnCancel :  false,
+                            closeOnConfirm : false,
+                            showCancelButton: false,
+                            showConfirmButton: false,
+                            timer : 2000
+                        });
+                        setTimeout(function(){
+                            window.location.href = "<?php echo URL?>Personas";
+                        },2100)
+                    })
+                </script>
+                <?php
+            }
 
-        }
 
     }
+        }
     public function print_pdf()
     {
         $datos = $this->Personas->getAll();

@@ -29,7 +29,6 @@ class UsuariosController
         {
             $this->Usuarios->set('nickname',$_POST["nickname"]);
             $this->Usuarios->set('pass',$_POST["pass"]);
-            $this->Usuarios->set('id_tipo_usuario',$_POST["id_tipo_usuario"]);
 
             $this->Usuarios->add();
             $datos1=$this->Usuarios->getAll();
