@@ -41,17 +41,24 @@ class Template
             <title>EDOMEX</title>
             <nav class=" bg navbar navbar-expand-lg navbar-light bg-dark fixed-top text-white"  >
                 <div class="container">
-                    <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>login" class="btn btn-primary js-scroll-trigger " id="sesion ">EDOMEX</a>
+                    <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>inicio" class="btn btn-primary js-scroll-trigger " id="sesion ">EDOMEX</a>
+
                     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fas fa-bars"></i>
                     </button>
+
                     <div class="collapse navbar-collapse " id="navbarResponsive"><ul class="navbar-nav ml-auto">
+
+                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>Quienes_somos" class="btn btn-primary js-scroll-trigger " id="sesion ">Quienes somos</a>
+
+                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>login" class="btn btn-primary js-scroll-trigger " id="sesion ">Iniciar secion</a>
 
                         </ul>
                     </div>
                 </div>
             </nav>
         </main>
+
         </html>
 
         <?php
@@ -71,8 +78,7 @@ class Template
 
         </body>
         <?php
+
 }
 }
-
-
 

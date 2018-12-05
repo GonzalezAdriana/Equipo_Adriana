@@ -10,6 +10,7 @@
                     <h5 class="card-title border-bottom pb-3">Valle de Bravo <a href="#" class="float-right d-inline-flex share"><i class="fas fa-share-alt text-primary"></i></a></h5>
                     <p class="card-text">Valle de Bravo es una oportunidad para disfrutar las atracciones de los grandes clubes de playa sin tener que salir del centro del país.</p>
                     <a href="<?php echo URL?>Valle" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>
+
                 </div>
             </div>
         </div>

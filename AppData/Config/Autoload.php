@@ -16,7 +16,7 @@ class Autoload
         spl_autoload_register(function ($class)
         {
             $ruta=str_replace("\\",'/',$class).'.php';
-            //echo $ruta;
+           // echo $ruta;
             require_once ($ruta);
         });
 

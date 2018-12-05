@@ -1,9 +1,9 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Alex
- * Date: 20/10/2018
- * Time: 08:16 PM
+ * User: brian
+ * Date: 04/12/2018
+ * Time: 10:05 AM
  */
 
 namespace AppData\Model;
@@ -36,7 +36,7 @@ class Personas
 
     function add()
     {
-        $sql="insert into personas values('0','{$this->nombre}','{$this->ap_p}','{$this->ap_m}', '{$this->edad } ' ,'{$this->id_usuario}','{$this->id_sexo}')";
+        $sql="insert into personas values('0','{$this->nombre}','{$this->ap_p}','{$this->ap_m}', '{$this->id_usuario } ' ,'{$this->edad}','{$this->id_sexo}')";
         $this->conexion->QuerySimple($sql);
     }
 
@@ -51,11 +51,6 @@ class Personas
         return $datos;
     }
 
-    function delete($id)
-    {
-        $sql="delete from personas where id_persona='{$id}'";
-        $this->conexion->QuerySimple($sql);
-    }
 
     function getOne($id)
     {
@@ -64,12 +59,5 @@ class Personas
         return $datos;
     }
 
-    function update(){
 
-        $sql="update personas set nombre='{$this->nombre}',
-               ap_p='{$this->ap_p}', ap_m='{$this->ap_m}' ,
-                 edad='{$this->edad}' , id_usuario='{$this->id_usuario}',
-                   id_sexo='{$this->id_sexo}'where id_persona='{$this->id_persona}'";
-        $this->conexion->QuerySimple($sql);
-    }
 }

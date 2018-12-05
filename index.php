@@ -3,7 +3,7 @@
 define('DS',DIRECTORY_SEPARATOR);
 define('ROOT',realpath(dirname(__FILE__)).DS);
 
-define('URL',"http://localhost/Aplicaciones_701/");
+define('URL',"http://localhost/Equipo_Adriana/");
 
 require_once ("AppData/Config/Autoload.php");
 \AppData\Config\Autoload::run();
@@ -17,4 +17,3 @@ if(!isset($_SERVER["HTTP_X_REQUESTED_WITH"])&&(isset($_GET['url'])?!((stristr($_
 
     Views\Template::footer();
 ?>
-
