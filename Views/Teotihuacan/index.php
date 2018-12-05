@@ -28,28 +28,39 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de Teotihuacan</h2><h2 align="right"  class="  text-danger" >       Cómo Llegar a Teotihuacan</h2>
+            <h2 align="left" class="  text-danger"  >Informacion acerca de Teotihuacan</h2>
 
             <div class="row">
 
 
                 <div class="col-md-6">
                     <div class="card">
-                        <img class="card-img-top" src="Public/img/teo.jpg" alt="Card image cap"width="250" height="220">
+                        <img class="card-img-top" src="Public/img/teo2.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
-                            <h5 class="card-title border-bottom pb-3">Teotihuacan<a></a></h5>
+                            <h5 class="card-title border-bottom pb-3">Pasatiempos<a></a></h5>
                             <p class="card-text">San Juan Teotihuacán atrae las miradas del mundo por los misterios escondidos en sus ruinas arqueológicas, legado de una civilización más antigua aun que la esplendorosa ciudad de Tenochtitlán, en el centro del país, pero de la que no se han podido dilucidar cientos de interrogantes.</p>
                         </div>
                         <br><br>
                     </div>
                     <br><br>
                 </div>
+
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="Public/img/teo.jpg" alt="Card image cap"width="250" height="220">
+                        <div class="card-body">
+                            <h5 class="card-title border-bottom pb-3">Costumbres<a></a></h5>
+                            <p class="card-text">Otro de los recintos sobresalientes en este sitio arqueológico es el Templo de los Caracoles Emplumados, basamento piramidal con muros en talud que tienen pintadas directamente sobre la roca representaciones de aves en procesión distribuidas en cuatro tableros policromados. Al frente, en un espacio poco explorado, puede observarse un edificio decorado con discos rojos. </p>
+                        </div>
+                        <br><br>
+                    </div>
+                    <br><br>
+                </div>
+
                 <br><br>
                 <div class="col-md-6">
 
                 <div class="row" align="right">
-
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30052.60698884537!2d-98.89337315997!3d19.68809195132321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1eaf94e01ddc9%3A0xc77ed523147164da!2sSan+Juan+Teotihuacan+de+Arista%2C+M%C3%A9x.!5e0!3m2!1ses!2smx!4v1540088841027" width="500" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
             </div>
@@ -96,10 +107,17 @@
         <br><br>
         <br>
         <br>
+
+
+         <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Teotihuacan <i class="fas fa-angle-double-right"></i></a>
+
+            <h2 align="right"  class="  text-danger" >       Cómo Llegar a Teotihuacan</h2>
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30052.60698884537!2d-98.89337315997!3d19.68809195132321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1eaf94e01ddc9%3A0xc77ed523147164da!2sSan+Juan+Teotihuacan+de+Arista%2C+M%C3%A9x.!5e0!3m2!1ses!2smx!4v1540088841027" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
     </div>
     <br>
     <br>
 
 </div>
-
 

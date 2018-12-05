@@ -27,36 +27,56 @@
 
 
 </div>
-            <br>
-            <h2 align="left" class="  text-danger"  >Informacion Turistica</h2><h2 align="right"  class="  text-danger" >       Cómo Llegar a Valle de Bravo</h2>
+          
+
+
+
+                <h2 align="center" class="  text-danger"  >Informacion Turistica</h2>
 
             <div class="row">
 
 
-                <div class="col-md-6">
+                <div align="center" class="col-md-6">
                     <div class="card">
-                        <img class="card-img-top" src="Public/img/oro3.jpg" alt="Card image cap"width="250" height="220">
+                        <img class="card-img-top" src="Public/img/flyvalle.jpg" alt="Card image cap"width="1000" height="300">
                         <div class="card-body">
-                            <h5 class="card-title border-bottom pb-3">Valle de Bravo<a></a></h5>
+                            <h5 class="card-title border-bottom pb-3">Pasatiempos<a></a></h5>
                             <p class="card-text">La vida entera de Valle de Bravo fluye alrededor del lago, donde navegan los mejores veleristas del país y miles de personas acuden en busca de esparcimiento, diversión, descanso y sanación. Representa también una oportunidad para darse una vuelta por un sitio de fama internacional: la comunidad de Avándaro, que en los años sesenta fue sede del Circuito Automovilístico y en los setenta del Festival de Rock y Ruedas.</p>
                         </div>
                         <br><br>
                     </div>
                     <br><br>
                 </div>
+
+
+
+                <div align="center" class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="Public/img/vallefest.jpg" alt="Card image cap"width="1000" height="300">
+                        <div class="card-body">
+                            <h5 class="card-title border-bottom pb-3">Algunas costumbres<a></a></h5>
+                            <p class="card-text">En marzo, por ejemplo, se realiza el Festival Vallesano, el cual es un acontecimiento por demás esperado en la zona. Incluye actividades deportivas, paseos grupales a caballo, eventos gastronómicos, así como también espectáculos culturales y artísticos. El 3 de mayo, se realiza la tradicional Feria de Santa María en donde se le rinde culto al Cristo Negro. Los mayordomos del evento efectúan una novena y una celebración especial en la fecha señalada, en el marco de la cual se efectúan mojigangas, peregrinaciones masivas, toritos y espectáculos de fuegos artificiales. El alimento que más se consume en Valle de Bravo durante estos días, es el mole.</p>
+                        </div>
+                        <br><br>
+                    </div>
+                    <br><br>
+                </div>
+
+
+
                 <br><br>
                 <div class="col-md-6">
 
                 <div class="row" align="right">
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30145.198073303218!2d-100.14666410275977!3d19.188660226336843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cd63813218f41f%3A0xb687c3a1fb52897c!2sValle+de+Bravo%2C+M%C3%A9x.!5e0!3m2!1ses!2smx!4v1539221390860" width="500" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+          
 
 
             </div>
                 </div>
 
             </div><br><br>
-            <h4  class="  text-danger"  >Lugares para visitar en Valle de Bravo</h4>
+            <h3  class="  text-danger"  >Lugares para visitar en Valle de Bravo</h3>
         </div>
         <div class="row">
             <div class="col-md-4">
@@ -90,12 +110,19 @@
                 <br><br>
             </div>
 
-            <br><br>
+            <br><br> 
         </div>
+        
 
-        <br><br>
-        <br>
-        <br>
+        <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Valle de Bravo <i class="fas fa-angle-double-right"></i></a>
+
+         
+         <h3 align="center" class="  text-danger"  >¿Cómo llegar a Valle de Bravo?</h3>
+
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30145.198073303218!2d-100.14666410275977!3d19.188660226336843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cd63813218f41f%3A0xb687c3a1fb52897c!2sValle+de+Bravo%2C+M%C3%A9x.!5e0!3m2!1ses!2smx!4v1539221390860" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+
     </div>
     <br>
     <br>
