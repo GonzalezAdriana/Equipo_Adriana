@@ -25,6 +25,8 @@ class Template
             <link rel="stylesheet" href="<?php echo URL?>/Public/Style2.css">
             <link rel="stylesheet" href="<?php echo URL?>/Public/EstiloLogin.css">
 
+            <link rel="stylesheet" href="<?php echo URL ?>Public/css/sweetalert.css">
+
             <script type="text/javascript" src="<?php echo URL?>/Public/js/bootstrap.bundle.min.js"></script>
             <script type="text/javascript" src="<?php echo URL?>/Public/js/bootstrap.js"></script>
             <script type="text/javascript" src="<?php echo URL?>/Public/js/jquery.min.js"></script>
@@ -34,6 +36,12 @@ class Template
             <script src="<?php echo URL?>/Public/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
             <script src="<?php echo URL?>/Public/vendor/jquery-easing/jquery.easing.min.js"></script>
             <script src="<?php echo URL?>/Public/js/grayscale.min.js"></script>
+
+            <script type="text/javascript" src="<?php echo URL ?>Public/js/jquery.validate.min.js">
+                //<script src="<?php echo URL ?>Public/js/sweetalert.min.js" type="text/javascript"></script>
+            <script src="<?php echo URL ?>Public/js/jquery.js"></script>
+            <script src="<?php echo URL ?>Public/js/bootstrap.min.js"></script>
+            <script src="<?php echo URL ?>Public/js/sweetalert.min.js" type="text/javascript"></script>
     </head>
 
     <body>
@@ -49,7 +57,8 @@ class Template
 
                     <div class="collapse navbar-collapse " id="navbarResponsive"><ul class="navbar-nav ml-auto">
 
-                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>Quienes_somos" class="btn btn-primary js-scroll-trigger " id="sesion ">Quienes somos</a>
+                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>Quienes_somos" class="btn btn-primary js-scroll-trigger " id="sesion ">Quienes somos </a>
+
 
                             <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>login" class="btn btn-primary js-scroll-trigger " id="sesion ">Iniciar sesion</a>
 

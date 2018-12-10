@@ -103,7 +103,7 @@
             <div class="card">
                 <img class="card-img-top" src="Public/img/marti.jpg" alt="Card image cap" width="150" height="220">
                 <div class="card-body">
-                    <h5 class="card-title border-bottom pb-3">San Martin de las Piramides <a href="#" class="float-right d-inline-flex share"><i class="fas fa-share-alt text-primary"></i></a></h5>
+                    <h5 class="card-title border-bottom pb-3">San Martin de las Piramides <a href="<?php echo URL?>Bienvenido" class="float-right d-inline-flex share"><i class="fas fa-share-alt text-primary"></i></a></h5>
                     <p class="card-text">San Martin de las Piramides  Pueblo Mágico del Estado de México, por el área prehispánica que se encuentra en su territorio.</p>
 
                     <a href="<?php echo URL?>SanMartin" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>

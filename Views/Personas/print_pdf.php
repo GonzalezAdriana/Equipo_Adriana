@@ -10,13 +10,14 @@ $pdf->ln();
 $pdf->Cell(100,10,'EDOMEX',0,0,'C');
 $pdf->Cell(110,10,date('d/m/y'),0,0,'C');
 $pdf->ln();
-$pdf->Cell(100,10,'Personas Registradas',0,0,'C');
+$pdf->Cell(100,10,'Hora',0,0,'C');
+date_default_timezone_set('america/mexico_city');
 $pdf->Cell(110,10,date( 'H:i:s'),0,0,'C');
 
 
 $pdf->ln();
 $pdf->Cell(100,10,'Registro de usuarios',0,0,'C');
-$pdf->Cell(110,10,'Nombre- Christian',0,0,'C');
+$pdf->Cell(110,10,$_SESSION["nickname"],0,0,'C');
 $pdf->ln();
 
 $pdf->SetFillColor(0, 220, 255);

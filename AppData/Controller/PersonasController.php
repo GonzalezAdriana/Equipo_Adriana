@@ -58,28 +58,16 @@ private $Personas,$Sexos,$Tipos_usuarios,$Usuarios;
             $datos[3]=$datos4;
             return $datos;
 
-            if (mysqli_num_rows($datos) > 0) { ?>
-                <script type="text/javascript">
-                    $(document).ready(function(){
-                        swal({
-                            title : " ",
-                            text : "\nGuardado correctamente",
-                            closeOnCancel :  false,
-                            closeOnConfirm : false,
-                            showCancelButton: false,
-                            showConfirmButton: false,
-                            timer : 2000
-                        });
-                        setTimeout(function(){
-                            window.location.href = "<?php echo URL?>Personas";
-                        },2100)
-                    })
-                </script>
-                <?php
-            }
 
 
-    }
+            ?>
+            <script type="text/javascript">
+                window.location.href = "<?php echo URL?>login";
+                }
+            </script>
+            <?php
+
+        }
         }
     public function print_pdf()
     {

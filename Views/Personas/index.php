@@ -92,7 +92,7 @@
 
 
                     <div class="form-group">
-                        <input type="submit" value="Guardar" class="btn float-right login_btn">
+                        <input  href="<?php echo URL?>login" type="submit" value="Guardar"  class="btn float-right login_btn">
                     </div>
             </div>
             </form>

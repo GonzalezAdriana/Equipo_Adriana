@@ -42,13 +42,10 @@ class Personas
 
     function getAll()
     {
-        $sql="SELECT personas.id_persona, personas.nombre, personas.ap_p, personas.ap_m, personas.edad, usuarios.id_usuario, sexos.id_sexo
-              FROM personas, usuarios, sexos 
-              WHERE personas.id_usuario = usuarios.id_usuario 
-              and personas.id_sexo = sexos.id_sexo
-              ORDER BY id_persona ASC ";
+        $sql="SELECT * from Personas";
         $datos=$this->conexion->QueryResultado($sql);
         return $datos;
+
     }
 
 
