@@ -28,7 +28,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de San Martin</h2><h2 align="right"  class="  text-danger" >       Cómo Llegar a San Martin</h2>
+            <h2 align="left" class="  text-danger"  >Informacion acerca de San Martin</h2>
 
             <div class="row">
 
@@ -37,19 +37,32 @@
                     <div class="card">
                         <img class="card-img-top" src="Public/img/teo.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
-                            <h5 class="card-title border-bottom pb-3">San Martin<a></a></h5>
+                            <h5 class="card-title border-bottom pb-3">Pasatiempos<a></a></h5>
                             <p class="card-text">San Martín de las Pirámides, en el céntrico Estado de México, es un tìpico pueblito colonial que debe su actual denominación de Pueblo Mágico a su proximidad con el sitio arqueológico de Teotihuacán. Su nombre original es San Martín de Tours, y con sus escasas pero prolijas atracciones turísticas </p>
                         </div>
                         <br><br>
                     </div>
                     <br><br>
                 </div>
+
+
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="Public/img/s1.jpg" alt="Card image cap"width="250" height="220">
+                        <div class="card-body">
+                            <h5 class="card-title border-bottom pb-3">Costumbres<a></a></h5>
+                            <p class="card-text">San Martín de las Pirámides, en el céntrico Estado de México, es un tìpico pueblito colonial que debe su actual denominación de Pueblo Mágico a su proximidad con el sitio arqueológico de Teotihuacán. Su nombre original es San Martín de Tours, y con sus escasas pero prolijas atracciones turísticas </p>
+                        </div>
+                        <br><br>
+                    </div>
+                    <br><br>
+                </div>
+
                 <br><br>
                 <div class="col-md-6">
 
                 <div class="row" align="right">
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120204.85512924104!2d-98.89615779282428!3d19.695513865946445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1c029d111b87d%3A0xce6f6430f99805a9!2zU2FuIE1hcnTDrW4gZGUgbGFzIFBpcsOhbWlkZXMsIE3DqXgu!5e0!3m2!1ses!2smx!4v1540088915058" width="500" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
             </div>
@@ -96,6 +109,15 @@
         <br><br>
         <br>
         <br>
+
+         <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de San Martin de las Piramides</S> <i class="fas fa-angle-double-right"></i></a>
+
+
+        <h2 align="right"  class="  text-danger" >       Cómo Llegar a San Martin</h2>
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120204.85512924104!2d-98.89615779282428!3d19.695513865946445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1c029d111b87d%3A0xce6f6430f99805a9!2zU2FuIE1hcnTDrW4gZGUgbGFzIFBpcsOhbWlkZXMsIE3DqXgu!5e0!3m2!1ses!2smx!4v1540088915058" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
     </div>
     <br>
     <br>
