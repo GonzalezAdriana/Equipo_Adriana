@@ -26,6 +26,7 @@ class Template
             <link rel="stylesheet" href="<?php echo URL?>/Public/EstiloLogin.css">
 
             <link rel="stylesheet" href="<?php echo URL ?>Public/css/sweetalert.css">
+            <script type="text/javascript" src="<?php echo URL?>/Public/js/mdb-lightbox-ui.js"></script>
 
             <script type="text/javascript" src="<?php echo URL?>/Public/js/bootstrap.bundle.min.js"></script>
             <script type="text/javascript" src="<?php echo URL?>/Public/js/bootstrap.js"></script>
@@ -36,6 +37,7 @@ class Template
             <script src="<?php echo URL?>/Public/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
             <script src="<?php echo URL?>/Public/vendor/jquery-easing/jquery.easing.min.js"></script>
             <script src="<?php echo URL?>/Public/js/grayscale.min.js"></script>
+
 
             <script type="text/javascript" src="<?php echo URL ?>Public/js/jquery.validate.min.js">
                 //<script src="<?php echo URL ?>Public/js/sweetalert.min.js" type="text/javascript"></script>

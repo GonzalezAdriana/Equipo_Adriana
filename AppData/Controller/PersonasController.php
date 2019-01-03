@@ -56,16 +56,18 @@ private $Personas,$Sexos,$Tipos_usuarios,$Usuarios;
             $this->Usuarios->add();
             $datos4=$this->Usuarios->getAll();
             $datos[3]=$datos4;
-            return $datos;
 
 
+            if (mysqli_num_rows($datos[0]) > 0 ) { ?>
+                <script type="text/javascript">
+                    swal("Registro exitoso", "", "success");
+                    setTimeout(function(){
+                        window.location.href = "<?php echo URL?>login";
+                    },1000)
+                </script>
+                <?php
+            }
 
-            ?>
-            <script type="text/javascript">
-                window.location.href = "<?php echo URL?>login";
-                }
-            </script>
-            <?php
 
         }
         }

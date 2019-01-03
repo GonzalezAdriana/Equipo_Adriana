@@ -47,17 +47,22 @@
                     </div>
                     <div class="input-group form-group">
                         <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                        </div>
+                        <input type="text" id="ap_p " name="ap_p" class="form-control" placeholder="Apellido Paterno">
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                        </div>
+                        <input type="text" id="ap_m" name="ap_m" class="form-control" placeholder="Apellido Materno">
+                    </div>
+
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
                             <span class="input-group-text"><i class="fas fa-key"></i></span>
                         </div>
-                        <input type="text" id="ap_p " name="ap_p" class="form-control" placeholder="Apellido">
-                    </div>
-
-                    <div class="form-group">
-                        <input type="text" class="form-control" id="ap_m" name="ap_m" placeholder="Apellido materno" value="" required>
-                    </div>
-
-                    <div class="form-group">
-                        <input type="number" class="form-control" id="edad" name="edad" placeholder="Edad" value="" required>
+                        <input type="number" id="edad" name="edad" class="form-control" placeholder="Edad">
                     </div>
 
                     <select class="form-control" name="id_sexo" id="id_sexo">
@@ -71,16 +76,22 @@
                         ?>
                     </select>
 
-                    <div>
-                        <input type="text" class="form-control" id="nickname" name="nickname" placeholder="Nickname" value="">
-                    </div>
 
-                    <div>
-                        <input type="password" class="form-control" id="pass"name="pass" placeholder="Constraseña" value="">
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-key"></i></span>
+                        </div>
+                        <input type="email" id="nickname" name="nickname" class="form-control" placeholder="Correo">
+                    </div>
+                    <div class="input-group form-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-unlock"></i></span>
+                        </div>
+                        <input type="password" id="pass" name="pass" class="form-control" placeholder="Contraseña">
                     </div>
 
                     <select class="form-control" name="id_usuario" id="id_usuario">
-                        <option value="">Selecciona Tipo Usuario</option>
+                        <option value="">Selecciona</option>
                         <?php
                         if(isset($datos[2])){
                             while($fila = mysqli_fetch_assoc($datos[2])){ ?>
@@ -92,7 +103,7 @@
 
 
                     <div class="form-group">
-                        <input  href="<?php echo URL?>login" type="submit" value="Guardar"  class="btn float-right login_btn">
+                        <input   type="submit" value="Guardar"  class="btn float-right login_btn">
                     </div>
             </div>
             </form>

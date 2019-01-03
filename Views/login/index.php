@@ -10,13 +10,23 @@
                 <p>Por favor coloca tu cuenta y contraseña</p>
             </div>
             <form id="form-signin" class="form-signin" method="post" action="<?php echo URL?>login/Verify">
-                <div class="form-group">
-                    <input type="text" class="form-control" id="nickname" name="nickname" placeholder="Nickname">
+
+
+                <div class="input-group form-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-user"></i></span>
+                    </div>
+                    <input type="email" id="nickname"  name="nickname" class="form-control" placeholder="Correo">
+
+                </div>
+                <div class="input-group form-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="fas fa-unlock"></i></span>
+                    </div>
+                    <input type="password" id="pass" name="pass" class="form-control" placeholder="Contraseña">
                 </div>
 
-                <div class="form-group">
-                    <input type="password" class="form-control" id="pass" name="pass"  placeholder="Contraseña">
-                </div>
+
 
                 <div class="form-group">
                     <!--<button type="submit" id="signin" class="col s12 btn btn-large waves-effect indigo">Entrar</button> -->

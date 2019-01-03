@@ -32,7 +32,7 @@ class loginController
             if (mysqli_num_rows($datos) > 0) {
                 $datos=mysqli_fetch_assoc($datos);
                 $_SESSION["nickname"]=$datos["pass"];
-                $_SESSION["nickname"]=$datos["nickname"] . " " . $datos["pass"];
+                $_SESSION["nickname"]=$datos["nickname"] ;
                 ?>
                 <script type="text/javascript">
                     swal("Acceso Exitoso", "Bienvenido", "success");
