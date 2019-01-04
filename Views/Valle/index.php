@@ -114,7 +114,7 @@
         </div>
         
 
-        <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Valle de Bravo <i class="fas fa-angle-double-right"></i></a>
+        <a href="<?php echo URL?>vallegalery" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Valle de Bravo <i class="fas fa-angle-double-right"></i></a>
 
          
          <h3 align="center" class="  text-danger"  >¿Cómo llegar a Valle de Bravo?</h3>
