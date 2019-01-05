@@ -71,7 +71,7 @@ class Template
         </main>
 
         </html>
-
+        
         <?php
     }
     public function footer(){
@@ -86,6 +86,7 @@ class Template
             </nav>
 
         </footer>
+
 
         </body>
         <?php

@@ -1,3 +1,11 @@
+
+<div class="card mb-3">
+ 
+  <div class="card-body">
+  
+ <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
+  <h2 align="center" class="  text-danger">"Pueblo Antigüo, Noble Amigo"</h2>
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -10,93 +18,109 @@
     <div class="row">
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/hola.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/valle.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">Laguna valle de bravo</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/valle.jpg">
+                    <div class="zoom"></div>
+                 </a>
             </div>
-            <a class="fancybox" rel="ligthbox" href="Public/img/hola.jpg">
-                <div class="zoom"></div>
-            </a>
         </div>
+
+
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="Public/img/valle.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">lsgunannnnnnnnnnnnnnnnn</h6>
-
+                <h6 class="clrd-font">la peña valle de bravo</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/valle.jpg">
+                    <div class="zoom"></div>
+                </a>    
             </div>
-            <a class="fancybox" rel="ligthbox" href="Public/img/valle.jpg">
-                <div class="zoom"></div>
-            </a>
         </div>
+
+
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="http://i.imgur.com/8cOtAS9.png" alt="" />
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"> <i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a href="#" class="btn btn-primary">Click here</a>
+                <h6 class="clrd-font"> Source Mushroom</h6>
+                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
+                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/8cOtAS9.png">
+                    <div class="zoom"></div>
+                </a>
             </div>
-            <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/8cOtAS9.png">
-                <div class="zoom"></div>
-            </a>
         </div>
+
+
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="http://i.imgur.com/p7OYoBT.png" alt="" />
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"> <i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a href="#" class="btn btn-primary">Click here</a>
+                <h6 class="clrd-font"> Mushroom</h6>
+                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
+                     <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/p7OYoBT.png">
+                        <div class="zoom"></div>
+                     </a>
             </div>
-            <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/p7OYoBT.png">
-                <div class="zoom"></div>
-            </a>
         </div>
+
+
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="http://i.imgur.com/uZeTibF.png" alt="" />
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"> <i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a href="#" class="btn btn-primary">Click here</a>
+                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
+                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/uZeTibF.png">
+                    <div class="zoom"></div>
+                </a>
             </div>
-            <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/uZeTibF.png">
-                <div class="zoom"></div>
-            </a>
         </div>
+
+
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="http://i.imgur.com/ymwlLln.png" alt="" />
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"> <i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a href="#" class="btn btn-primary">Click here</a>
-            </div>
-            <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/ymwlLln.png">
+                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
+             <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/ymwlLln.png">
                 <div class="zoom"></div>
             </a>
+            </div>
         </div>
+
+
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="http://i.imgur.com/PUeaHfC.png" alt="" />
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"> <i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a href="#" class="btn btn-primary">Click here</a>
+                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
+                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/PUeaHfC.png">
+                    <div class="zoom"></div>
+                </a>
             </div>
-            <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/PUeaHfC.png">
-                <div class="zoom"></div>
-            </a>
         </div>
+
+
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="http://i.imgur.com/A8FRrbS.png" alt="" />
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"> <i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a href="#" class="btn btn-primary">Click here</a>
+                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
+                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/A8FRrbS.png">
+                    <div class="zoom"></div>
+                </a>
             </div>
-            <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/A8FRrbS.png">
-                <div class="zoom"></div>
-            </a>
         </div>
+
+        <br>
+                        <div class="card-body">
+                             <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
+                            <p class="card-text"> de Valle de Bravo pueblo magico, cascadas, calles empedradas, vistas al lago, exquisita gastronomia, actividades que.</p>
+                        </div>
+
 
     </div>
 </div>
+
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -236,3 +260,8 @@
         });
     });
 </script>
+
+
+  </div>
+</div
+

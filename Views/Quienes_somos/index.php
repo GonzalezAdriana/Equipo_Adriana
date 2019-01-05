@@ -20,9 +20,10 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.</p>
+                                    <p><img class=" img-fluid" src="Public/img/ad.jpg" alt="card image"></p>
+                                    <h4 class="card-title">Adriana</h4>
+                                    <p class="card-text">Desarrollador web de la pagina informativa:
+                                     "Pueblos Magicos del Estado de México"</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
                             </div>
@@ -30,8 +31,8 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
+                                    <h4 class="card-title">EDOMEX</h4>
+                                    <p class="card-text">Adriana González Flores estudiante de la carrera de Ingenieria en Sistemas Computacionales del Tecnologico de Estudios Superiores de Valle de Bravo</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
@@ -63,8 +64,16 @@
                 <br><br>
             <!-- ./Team member -->
             <!-- Team member -->    <br><br>
-            <div class="col-xs-12 col-sm-6 col-md-4">
 
+            <div class="col-md-4">
+                <img class="card-img-top" src="Public/img/tesvb.jpg"width="50" height="100">
+            </div>
+
+                    <br><br>
+            <!-- ./Team member -->
+            <!-- Team member -->    <br><br>
+
+      <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">
                         <div class="frontside">
@@ -110,7 +119,7 @@
                     </div>
                 </div>
             </div>
-            <!-- ./Team member -->
+
 
 
 
