@@ -4,7 +4,7 @@
   <div class="card-body">
   
  <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
-  <h2 align="center" class="  text-danger">"Pueblo Antigüo, Noble Amigo"</h2>
+  <h2 align="center" class="  text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -18,10 +18,10 @@
     <div class="row">
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/valle.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/bravo1.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">Laguna valle de bravo</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/valle.jpg">
+                <h6 class="clrd-font">"El Kiosco"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/bravo1.jpg">
                     <div class="zoom"></div>
                  </a>
             </div>
@@ -29,10 +29,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/valle.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/bravo2.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">la peña valle de bravo</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/valle.jpg">
+                <h6 class="clrd-font">"La Laguna"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/bravo2.jpg">
                     <div class="zoom"></div>
                 </a>    
             </div>
@@ -40,11 +40,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="http://i.imgur.com/8cOtAS9.png" alt="" />
+            <img src="Public/img/bravo3.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font"> Source Mushroom</h6>
-                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/8cOtAS9.png">
+                <h6 class="clrd-font">"Zona Centro"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/bravo3.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -52,11 +51,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="http://i.imgur.com/p7OYoBT.png" alt="" />
+            <img src="Public/img/bravo4.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font"> Mushroom</h6>
-                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                     <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/p7OYoBT.png">
+                <h6 class="clrd-font">"Calles Empedradas"</h6>
+                     <a class="fancybox" rel="ligthbox" href="Public/img/bravo4.jpg">
                         <div class="zoom"></div>
                      </a>
             </div>
@@ -64,11 +62,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="http://i.imgur.com/uZeTibF.png" alt="" />
+            <img src="Public/img/bravo5.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/uZeTibF.png">
+                <h6 class="clrd-font">"Vistas a los Atardeceres"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/bravo5.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -76,11 +73,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="http://i.imgur.com/ymwlLln.png" alt="" />
+            <img src="Public/img/bravo6.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-             <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/ymwlLln.png">
+                <h6 class="clrd-font">"La Torre"</h6>
+             <a class="fancybox" rel="ligthbox" href="Public/img/bravo6.jpg">
                 <div class="zoom"></div>
             </a>
             </div>
@@ -88,11 +84,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="http://i.imgur.com/PUeaHfC.png" alt="" />
+            <img src="Public/img/bravo7.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/PUeaHfC.png">
+                <h6 class="clrd-font">"La Gran Stupa"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/bravo7.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -100,20 +95,21 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="http://i.imgur.com/A8FRrbS.png" alt="" />
+            <img src="Public/img/bravo8.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">Italian Source Mushroom</h6>
-                <p class="clrd-font product_price"><i class="fa fa-usd clrd-font" aria-hidden="true"></i> 12</p>
-                <a class="fancybox" rel="ligthbox" href="http://i.imgur.com/A8FRrbS.png">
+                <h6 class="clrd-font">"Mercado de Artesanias"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/bravo8.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
         </div>
 
         <br>
+
                         <div class="card-body">
-                             <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
-                            <p class="card-text"> de Valle de Bravo pueblo magico, cascadas, calles empedradas, vistas al lago, exquisita gastronomia, actividades que.</p>
+                             
+                            <p class="card-text"> Si eres fan de los paisajes desde las alturas, no te puedes perder subir a la peña para disfrutar de una vista del  valle de Bravo, como su nombre lo dice. Si vas entre agosto y octubre,  tienes que darte un tiempo para poder admirar la llegada de la Mariposa Monarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
+                            <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
                         </div>
 
 
