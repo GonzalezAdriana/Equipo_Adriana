@@ -13,7 +13,7 @@
             <img class="d-block w-100" src="Public/img/valle2.jpg" alt="Second slide" width="200" height="300">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="Public/img/valle1.jpg" alt="Third slide" width="200" height="300">
+            <img class="d-block w-100" src="Public/img/val.jpg" alt="Third slide" width="200" height="300">
         </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -32,7 +32,7 @@
 
                 <div align="center" class="col-md-6">
                     <div class="card">
-                        <img class="card-img-top" src="Public/img/val.jpg" alt="Card image cap"width="1000" height="300">
+                        <img class="card-img-top" src="Public/img/flyvalle.jpg" alt="Card image cap"width="1000" height="300">
                         <div class="card-body">
                             <h5 class="card-title border-bottom pb-3">Pasatiempos<a></a></h5>
                             <p class="card-text">La vida entera de Valle de Bravo fluye alrededor del lago, donde navegan los mejores veleristas del país y miles de personas acuden en busca de esparcimiento, diversión, descanso y sanación. Representa también una oportunidad para darse una vuelta por un sitio de fama internacional: la comunidad de Avándaro, que en los años sesenta fue sede del Circuito Automovilístico y en los setenta del Festival de Rock y Ruedas.</p>
