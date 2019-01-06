@@ -20,7 +20,7 @@
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
             <img src="Public/img/bravo1.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"El quiosco"</h6>
+                <h6 class="clrd-font">"El Kiosco"</h6>
                 <a class="fancybox" rel="ligthbox" href="Public/img/bravo1.jpg">
                     <div class="zoom"></div>
                  </a>
@@ -73,10 +73,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo66.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/bravo6.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Comidas Tipicas"</h6>
-             <a class="fancybox" rel="ligthbox" href="Public/img/bravo66.jpg">
+                <h6 class="clrd-font">"La Torre"</h6>
+             <a class="fancybox" rel="ligthbox" href="Public/img/bravo6.jpg">
                 <div class="zoom"></div>
             </a>
             </div>

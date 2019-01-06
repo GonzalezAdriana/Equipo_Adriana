@@ -11,7 +11,7 @@
 <!-- Team -->
 <section id="team" class="pb-5">
     <div class="container"  align="left">
-        <h5 class="section-title h1">QUIENES SOMOS</h5>
+        <h5 class="section-title h1">QUIENES SOMOS?</h5>
         <div class="row">
             <!-- Team member -->
             <div   class="col col-xs-12 col-sm-6 col-md-4">
@@ -35,22 +35,20 @@
                                     <p class="card-text">Adriana González Flores estudiante de la carrera de Ingenieria en Sistemas Computacionales del Tecnologico de Estudios Superiores de Valle de Bravo</p>
                                     <ul class="list-inline">
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                            <a class="social-icon text-xs-center" target="_blank" 
+                                                href="https://www.facebook.com/pekkessitaa.dazoo">
                                                 <i class="fa fa-facebook"></i>
                                             </a>
                                         </li>
+                                        
                                         <li class="list-inline-item">
                                             <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
+                                                <i class="fa fa-gmail"></i>
                                             </a>
                                         </li>
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                            <a class="social-icon text-xs-center" target="_blank"
+                                                 href="http://tesvb.edomex.gob.mx/">
                                                 <i class="fa fa-google"></i>
                                             </a>
                                         </li>
@@ -66,7 +64,7 @@
             <!-- Team member -->    <br><br>
 
             <div class="col-md-4">
-                <img class="card-img-top" src="Public/img/tesvb.jpg"width="50" height="100">
+                <img class="card-img-top" src="Public/img/tesvb.jpg"width="140" height="320">
             </div>
 
                     <br><br>
@@ -97,18 +95,9 @@
                                                 <i class="fa fa-facebook"></i>
                                             </a>
                                         </li>
+                                    
                                         <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
+                                            <a class="social-icon text-xs-center" target="_blank" href="http://tesvb.edomex.gob.mx/">
                                                 <i class="fa fa-google"></i>
                                             </a>
                                         </li>
@@ -121,11 +110,39 @@
             </div>
 
 
+                <div class="card">
+                    <div class="card-body">
+
+            <h5 align="center" class="section-title h1">Acerca del TESVB</h5>
+
+            <h4 class="card-title">MISIÓN</h4>
+          
+            <h4 class="card-title">Ofrecer a la comunidad servicios de educación superior tecnológica de calidad, formando profesionistas con conocimientos científicos, tecnológicos y humanísticos que contribuyan al desarrollo económico y social del estado y la nación, basado en la sustentabilidad, </h4>
+
+            <h4 class="card-title">VISIÓN</h4>
+
+            <h4 class="card-title">Ser una Institución de educación superior tecnológica reconocida por la excelencia de sus programas académicos y la calidad de sus egresados, siendo pilar fundamental del desarrollo sostenido, sustentable y equitativo de la nación.</h4>
+
+
+           <h5 align="center" class="section-title h1">Cómo llegar al TESVB?</h5>
+
+<iframe frameborder="0" height="450" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15068.295122987216!2d-100.13480721936493!3d19.235616015132067!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cd63aca38889a5%3A0x3a95dc0c61a0b289!2sTecnol%C3%B3gico+de+Estudios+Superiores+de+Valle+de+Bravo!5e0!3m2!1ses-419!2smx!4v1432317443787" style="border:0" width="1100"></iframe>
+
+<h4 class="card-title">Km. 30, Carretera Federal Monumento Valle de Bravo, San Antonio de la Laguna, 51200 Valle de Bravo, Méx.</h4>
+
+<h5 align="center" class="section-title h1">El TESVB te espera, VISITANOS PRONTO llollllllll!</h5>
 
 
 
+<!-- divs tarjeta -->
+         </div>
+    </div>
+    
+    
         </div>
     </div>
+
+
 </section>
 <!-- Team -->
 

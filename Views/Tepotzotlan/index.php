@@ -28,8 +28,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de Tepotzotlan</h2><h2 align="right"  class="  text-danger" >       Cómo Llegar a Tepotzotlan</h2>
-
+            <h2 align="left" class="  text-danger"  >Informacion acerca de Tepotzotlan</h2>
             <div class="row">
 
 
@@ -37,20 +36,33 @@
                     <div class="card">
                         <img class="card-img-top" src="Public/img/Tepotzotlans.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
-                            <h5 class="card-title border-bottom pb-3">Tepotzotlan<a></a></h5>
+                            <h5 class="card-title border-bottom pb-3">Pasatiempos<a></a></h5>
                             <p class="card-text">Como parte del Camino Real de Tierra Adentro, el Pueblo Mágico de Tepotzotlán, en el Estado de México, fue declarado en los años recientes como Patrimonio de la Humanidad de la UNESCO por su riqueza histórica y cultural, sobre todo por sus antiguas edificaciones que dan testimonio del pasado colonial del país.</p>
                         </div>
                         <br><br>
                     </div>
                     <br><br>
                 </div>
+
+
+                <div class="col-md-6">
+                    <div class="card">
+                        <img class="card-img-top" src="Public/img/Tepotzotlan3.jpg" alt="Card image cap"width="250" height="220">
+                        <div class="card-body">
+                            <h5 class="card-title border-bottom pb-3">Costumbres<a></a></h5>
+                            <p class="card-text">Las agradable reliquias que habitan en este recinto son tesoros invaluables de la nación, al grado de que el Museo del Virreinato es considerado como uno de los más impresionantes tanto por su colección como por la estética del edificio, que alberga más de 34,000 piezas de cerámica, pintura, escultura, enconchados y arte plumario.</p>
+                        </div>
+                        <br><br>
+                    </div>
+                    <br><br>
+                </div>
+
                 <br><br>
                 <div class="col-md-6">
 
                 <div class="row" align="right">
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30046.7521503264!2d-99.23503365278958!3d19.719263900199227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d220247669dddb%3A0x87655b8b1ef289eb!2zVGVwb3R6b3Rsw6FuLCBNw6l4Lg!5e0!3m2!1ses!2smx!4v1539222327956" width="500" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+            
 
             </div>
                 </div>
@@ -96,6 +108,14 @@
         <br><br>
         <br>
         <br>
+
+        <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Tepotzotlan <i class="fas fa-angle-double-right"></i></a>
+
+        <h2 align="right"  class="  text-danger" >       Cómo Llegar a Tepotzotlan</h2>
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30046.7521503264!2d-99.23503365278958!3d19.719263900199227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d220247669dddb%3A0x87655b8b1ef289eb!2zVGVwb3R6b3Rsw6FuLCBNw6l4Lg!5e0!3m2!1ses!2smx!4v1539222327956" width="1200" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
     </div>
     <br>
     <br>

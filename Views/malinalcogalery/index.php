@@ -3,8 +3,8 @@
  
   <div class="card-body">
   
- <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
-  <h2 align="center" class="  text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
+ <h2 align="center" class="  text-danger">POSTALES MALINALCO</h2>
+  <h2 align="center" class="  text-danger">"Senderismo al amanecer Malinalco"</h2>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -18,10 +18,10 @@
     <div class="row">
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo1.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m1.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"El quiosco"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo1.jpg">
+                <h6 class="clrd-font">"Bellas Iglecias"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/m1.jpg">
                     <div class="zoom"></div>
                  </a>
             </div>
@@ -29,10 +29,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo2.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m2.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Laguna"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo2.jpg">
+                <h6 class="clrd-font">"Centro de Cultura"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/m2.jpg">
                     <div class="zoom"></div>
                 </a>    
             </div>
@@ -40,10 +40,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo3.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m3.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Zona Centro"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo3.jpg">
+                <h6 class="clrd-font">"Tranquilo Pueblo"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/m3.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -51,10 +51,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo4.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m4.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"Calles Empedradas"</h6>
-                     <a class="fancybox" rel="ligthbox" href="Public/img/bravo4.jpg">
+                     <a class="fancybox" rel="ligthbox" href="Public/img/m4.jpg">
                         <div class="zoom"></div>
                      </a>
             </div>
@@ -62,10 +62,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo5.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m5.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Vistas a los Atardeceres"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo5.jpg">
+                <h6 class="clrd-font">"Miradores"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/m5.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -73,10 +73,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo66.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m6.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Comidas Tipicas"</h6>
-             <a class="fancybox" rel="ligthbox" href="Public/img/bravo66.jpg">
+                <h6 class="clrd-font">"Relajante"</h6>
+             <a class="fancybox" rel="ligthbox" href="Public/img/m6.jpg">
                 <div class="zoom"></div>
             </a>
             </div>
@@ -84,10 +84,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo7.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m7.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Gran Stupa"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo7.jpg">
+                <h6 class="clrd-font">"Lugares Familiares"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/m7.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -95,10 +95,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo8.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/m8.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Mercado de Artesanias"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo8.jpg">
+                <h6 class="clrd-font">"Tipicos Tlacoyos"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/m8.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -108,8 +108,8 @@
 
                         <div class="card-body">
                              
-                            <p class="card-text"> Si eres fan de los paisajes desde las alturas, no te puedes perder subir a la peña para disfrutar de una vista del  valle de Bravo, como su nombre lo dice. Si vas entre agosto y octubre,  tienes que darte un tiempo para poder admirar la llegada de la Mariposa Monarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
-                            <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
+                            <p class="card-text"> Características:Se incorporó al programa Pueblos Mágicos en el año de 2010. El nombre de Malinalco se compone de malinalli, planta gramínea llamada “zacate del carbonero”, con la que se elaboran cuerdas o mecates; de xóchitl: “flor” y de co: “en”. Por lo tanto, significa “Donde se adora a Malinalxóchitl, la flor del malinalli”. En el jardín principal se celebra el nombramiento de Malinalco como municipio, el 1 de Enero . Hay desfiles, charreadas y otros eventos educativos.​El 6 de agosto es la fiesta del Divino Salvador; se oficia una misa, hay danzas y bailes popularesMonarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
+                            <h2 align="center" class="  text-danger">MALINALCO TE ESPERA!</h2>
                         </div>
 
 
