@@ -109,9 +109,6 @@
                 </div>
             </div><br>
         </div><br><br>
-        <textarea name="comentarios" rows="4" cols="100" class="center">Escribe aquí tus comentarios</textarea>
-        <button type="button" class="btn btn-success">Success</button>
-        <button type="button" class="btn btn-primary btn-sm">Small button</button>
    <br>
     </div><br><br><br>
 </div>
