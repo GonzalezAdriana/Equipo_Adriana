@@ -48,13 +48,24 @@ class Personas
 
     }
 
-
     function getOne($id)
     {
         $sql="select * from personas where id_persona='{$id}'";
         $datos=$this->conexion->QueryResultado($sql);
         return $datos;
     }
-
+    function delete($id)
+    {
+        $sql="delete from {$this->tabla} where id_persona='{$id}'";
+        $this->conexion->QuerySimple($sql);
+    }
+    function update()
+    {
+        $sql = "update personas set nombre='{$this->nombre}',
+               ap_p='{$this->ap_}', ap_m='{$this->ap_p}',id_usuario='{$this->id_usuario}',edad='{$this->id_edad}',id_sexo='{$this->id_sexo}'
+                
+                where id_persona='{$this->id_persona}'";
+        $this->conexion->QuerySimple($sql);
+    }
 
 }

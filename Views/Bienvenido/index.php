@@ -1,6 +1,13 @@
 <div class="container">
     <h2  align="center"  class="  text-danger" >CONTROL DE REGISTRO DE USUARIOS</h2>
 
+    <div class="btn-group" aling="center">
+        <a href="<?php echo URL?>Personas/print_pdf" target="_blank" id="imprimir_pdf1" class="btn btn-default" >PDF REGISTROS</a>
+        <a type="button" data-toggle="modal" data-target="#miModal" class="btn btn-default" >Abrir modal</a>
+        <a href="<?php echo URL?>bienvenido/logout" id="cerrar" class="btn btn-default">Cerrar sesión</a>
+
+    </div><br>
+
 
                    -<?php
 
@@ -17,7 +24,6 @@
                 echo "<br><hr><br>";
                 ?>
 
-<a href="<?php echo URL?>Personas/print_pdf" target="_blank" id="imprimir_pdf1"  class="center" ><i class="material-icons" type="button" class="btn btn-outline-primary"> PDF REGISTROS</i></a>
 
 <p class="card-text">El control de accesos es una poderosa arma de seguridad, pero no es su única ventaja. En espacios donde el paso de personas debe estar limitado, sirve de barrera para evitar accesos no autorizados.
 
@@ -43,3 +49,22 @@ Permite, además, controlar horarios y fechas por ello es recomedable el chequeo
          </div>
 
 </div>
+
+<div  class="modal fade" id="miModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title" id="myModalLabel">Esto es un modal</h4>
+            </div>
+            <div class="modal-body">
+                Texto del modal
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

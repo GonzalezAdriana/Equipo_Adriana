@@ -71,6 +71,35 @@ private $Personas,$Sexos,$Tipos_usuarios,$Usuarios;
 
         }
         }
+    public function eliminar($id)
+    {
+        $this->Personas->delete($id[0]);
+        $datos1=$this->Personas->getAll();
+        $datos[0]=$datos1;
+        return $datos;
+    }
+    public function modificar($id)
+    {
+        $datos=$this->Personas->getOne($id[0]);
+        return $datos;
+    }
+    public function actualizar($id)
+    {
+        if($_POST)
+        {
+            $this->Personas->set("id_persona",$id[0]);
+            $this->Personas->set('nombre',$_POST["nombr"]);
+            $this->Personas->set('ap_p',$_POST["ap_p"]);
+            $this->Personas->set('ap_m',$_POST["ap_m"]);
+            $this->Personas->set('id_usuario',$_POST["id_puesto"]);
+            $this->Personas->set('edad',$_POST["edad"]);
+            $this->Personas->set('id_sexo',$_POST["id_sexo"]);
+            $this->Personas->update();
+            $datos1=$this->Personas->getAll();
+            $datos[0]=$datos1;
+            return $datos;
+        }
+    }
     public function print_pdf()
     {
         $datos = $this->Personas->getAll();
