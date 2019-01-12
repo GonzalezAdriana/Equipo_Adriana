@@ -8,13 +8,13 @@
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" align="center" >
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="d-block w-100" src="Public/img/acu.jpg" alt="First slide" width="900" height="300" >
+            <img class="d-block w-100" src="Public/img/acu2.jpg" alt="First slide" width="900" height="300" >
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="Public/img/acu2.jpg" alt="Second slide" width="200" height="300">
+            <img class="d-block w-100" src="Public/img/a6.jpg" alt="Second slide" width="200" height="300">
         </div>
         <div class="carousel-item">
-            <img class="d-block w-100" src="Public/img/acu1.jpg" alt="Third slide" width="200" height="300">
+            <img class="d-block w-100" src="Public/img/a7.jpg" alt="Third slide" width="200" height="300">
         </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -106,7 +106,7 @@
 
             <br><br>
 
-            <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Aculco <i class="fas fa-angle-double-right"></i></a>
+            <a href="<?php echo URL?>aculcogalery" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Aculco <i class="fas fa-angle-double-right"></i></a>
 
 
              <h2 align="right"  class="  text-danger" >       Cómo Llegar a Aculco</h2>

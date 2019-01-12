@@ -94,7 +94,7 @@
                     <img class="card-img-top" src="Public/img/ixtaa.jpg" alt="Card image cap"width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Grutas de la Estrella<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">onjunto de impresionantes cavernas que se extienden por casi un kilómetro bajo tierra, y en donde se puede practicar el descenso a rappel, arrastrarse en la tierra o nadar en el río Zapote.</p>
+                        <p class="card-text">Conjunto de impresionantes cavernas que se extienden por casi un kilómetro bajo tierra, y en donde se puede practicar el descenso a rappel, arrastrarse en la tierra o nadar en el río Zapote.</p>
                     </div>
                     <br>
                 </div>
@@ -109,7 +109,7 @@
         <br>
         <br>
 
-        <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Ixtapan de la Sal <i class="fas fa-angle-double-right"></i></a>
+        <a href="<?php echo URL?>ixtapagalery" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Ixtapan de la Sal <i class="fas fa-angle-double-right"></i></a>
 
         <h2 align="right"  class="  text-danger" > Cómo Llegar a Ixtapan</h2>
 

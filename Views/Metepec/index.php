@@ -107,7 +107,7 @@
             <br><br>
         </div>
 
-         <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Metepec <i class="fas fa-angle-double-right"></i></a>
+         <a href="<?php echo URL?>metepecgalery" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Metepec <i class="fas fa-angle-double-right"></i></a>
 
             <h2 align="right"  class="  text-danger" >Cómo Llegar a Metepec</h2>
 

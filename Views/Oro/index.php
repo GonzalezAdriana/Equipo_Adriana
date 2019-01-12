@@ -105,6 +105,7 @@
                 <br><br>
             </div>
 
+
                 <a href="<?php echo URL?>orogalery" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de El Oro <i class="fas fa-angle-double-right"></i></a>
 
                <br><br>         

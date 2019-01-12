@@ -109,7 +109,7 @@
         <br>
 
 
-         <a href="<?php echo URL?>galeriavalle" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Teotihuacan <i class="fas fa-angle-double-right"></i></a>
+         <a href="<?php echo URL?>teogalery" class="btn-outline-warning btn-lg btn-block">Motiva tu visita con algunas de las mejores postales de Teotihuacan <i class="fas fa-angle-double-right"></i></a>
 
             <h2 align="right"  class="  text-danger" >       Cómo Llegar a Teotihuacan</h2>
 

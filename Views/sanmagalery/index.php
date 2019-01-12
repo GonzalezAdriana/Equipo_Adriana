@@ -3,8 +3,8 @@
  
   <div class="card-body">
   
- <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
-  <h2 align="center" class="  text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
+ <h2 align="center" class="  text-danger">POSTALES SAN MARTIN</h2>
+  <h2 align="center" class="  text-danger">"San Martin de las Piramides, México"</h2>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -18,10 +18,10 @@
     <div class="row">
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo1.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti1.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"El Kiosco"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo1.jpg">
+                <h6 class="clrd-font">"Las piramides"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/ti1.jpg">
                     <div class="zoom"></div>
                  </a>
             </div>
@@ -29,10 +29,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo2.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti2.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Laguna"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo2.jpg">
+                <h6 class="clrd-font">"La iglecia"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/ti2.jpg">
                     <div class="zoom"></div>
                 </a>    
             </div>
@@ -40,10 +40,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo3.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti3.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Zona Centro"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo3.jpg">
+                <h6 class="clrd-font">"moles de la región"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/ti3.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -51,10 +51,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo4.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti4.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Calles Empedradas"</h6>
-                     <a class="fancybox" rel="ligthbox" href="Public/img/bravo4.jpg">
+                <h6 class="clrd-font">"Centro de adoracion"</h6>
+                     <a class="fancybox" rel="ligthbox" href="Public/img/ti4.jpg">
                         <div class="zoom"></div>
                      </a>
             </div>
@@ -62,10 +62,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo5.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti5.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Vistas a los Atardeceres"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo5.jpg">
+                <h6 class="clrd-font">"nopales y tunas tipicos"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/ti5.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -73,10 +73,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo6.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti6.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Torre"</h6>
-             <a class="fancybox" rel="ligthbox" href="Public/img/bravo6.jpg">
+                <h6 class="clrd-font">"bailes tipicos"</h6>
+             <a class="fancybox" rel="ligthbox" href="Public/img/ti6.jpg">
                 <div class="zoom"></div>
             </a>
             </div>
@@ -84,10 +84,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo7.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti7.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Gran Stupa"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo7.jpg">
+                <h6 class="clrd-font">"tunas de colores"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/ti7.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -95,10 +95,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo8.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/ti8.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Mercado de Artesanias"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo8.jpg">
+                <h6 class="clrd-font">"centro para toda la familia"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/ti8.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -108,8 +108,8 @@
 
                         <div class="card-body">
                              
-                            <p class="card-text"> Si eres fan de los paisajes desde las alturas, no te puedes perder subir a la peña para disfrutar de una vista del  valle de Bravo, como su nombre lo dice. Si vas entre agosto y octubre,  tienes que darte un tiempo para poder admirar la llegada de la Mariposa Monarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
-                            <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
+                            <p class="card-text"> En San Martín de las Pirámides podrás disfrutar de un clima templado y seco, cuya temperatura promedio en el año se sitúa en torno a los 15 °C, presentando pocas variaciones a lo largo del año. En el periodo más cálido, de mayo a junio, hacen unos 18 °C y luego el termómetro empieza a descender hasta aproximarse a los 12 °C en diciembre y enero. En San Martín de las Pirámides no llueve mucho, situándose las precipitaciones por debajo de los 600 mm en el año, con una temporada lluviosa que va de mayo a octubre. Entre noviembre y abril llueve muy poco. Pirámides hay otras edificaciones de interés arquitectónico, tanto clásico como moderno, principalmente representadas por el templo de San Martín Obispo de Tours y la iglesia de Ecce Homo. La Feria Nacional de la Tuna, que tiene lugar en agosto, fue establecida para dar a conocer y fomentar los usos culinarios y estéticos de la fruta y el árbol de nopal.</p>
+                            <h2 align="center" class="  text-danger">SAN MARTIN TE ESPERA!</h2>
                         </div>
 
 
@@ -130,9 +130,9 @@
         transition: 1s;
     }
     .clrd-font{
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #00BFFF, #FF512F);
+        background: #83c13f;
+        background: -webkit-linear-gradient(to right, #91ac1f, #f8d625);
+        background: linear-gradient(to right, #91ac1f, #f8d625);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
@@ -198,16 +198,16 @@
         margin-right: -10px;
     }
     .zoom{
-        width: 200px;
-        height: 200px;
+        width: 130px;
+        height: 180px;
         position: absolute;
         bottom: -100px;
         right: -100px;
         border-radius: 50%;
 
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #F09819, #FF512F);
+        background: #b4e935;
+        background: -webkit-linear-gradient(to right, #63ac26, #b4e935);
+        background: linear-gradient(to right, #63ac26, #b4e935);
         box-shadow:0px 0px 0px 10px rgba(0,0,0,0.5);
         opacity:0.9;
     }
@@ -215,11 +215,11 @@
         content: "\f00e";
         font-family: FontAwesome;
         color: rgba(255, 255, 255, 0.5);
-        font-size: 70px;
-        padding-right: 20px;
+        font-size: 35px;
+        padding-right: 10px;
         position: absolute;
-        top: 10px;
-        left: 30px;
+        top: 30px;
+        left: 10px;
     }
     @media (min-width:769px) and (max-width:991px) {
         .portfolio_images_overlay {

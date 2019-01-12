@@ -3,8 +3,8 @@
  
   <div class="card-body">
   
- <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
-  <h2 align="center" class="  text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
+ <h2 align="center" class="  text-danger">POSTALES TEOTIHUACAN</h2>
+  <h2 align="center" class="  text-danger">"San Juan Teotihuacan, México"</h2>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -18,10 +18,10 @@
     <div class="row">
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo1.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t1.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"El Kiosco"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo1.jpg">
+                <a class="fancybox" rel="ligthbox" href="Public/img/t1.jpg">
                     <div class="zoom"></div>
                  </a>
             </div>
@@ -29,10 +29,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo2.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t2.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"La Laguna"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo2.jpg">
+                <a class="fancybox" rel="ligthbox" href="Public/img/t2.jpg">
                     <div class="zoom"></div>
                 </a>    
             </div>
@@ -40,10 +40,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo3.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t3.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"Zona Centro"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo3.jpg">
+                <a class="fancybox" rel="ligthbox" href="Public/img/t3.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -51,10 +51,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo4.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t4.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"Calles Empedradas"</h6>
-                     <a class="fancybox" rel="ligthbox" href="Public/img/bravo4.jpg">
+                     <a class="fancybox" rel="ligthbox" href="Public/img/t4.jpg">
                         <div class="zoom"></div>
                      </a>
             </div>
@@ -62,10 +62,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo5.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t5.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"Vistas a los Atardeceres"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo5.jpg">
+                <a class="fancybox" rel="ligthbox" href="Public/img/t5.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -73,10 +73,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo6.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t6.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"La Torre"</h6>
-             <a class="fancybox" rel="ligthbox" href="Public/img/bravo6.jpg">
+             <a class="fancybox" rel="ligthbox" href="Public/img/t6.jpg">
                 <div class="zoom"></div>
             </a>
             </div>
@@ -84,10 +84,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo7.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t7.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"La Gran Stupa"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo7.jpg">
+                <a class="fancybox" rel="ligthbox" href="Public/img/t7.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -95,10 +95,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo8.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/t8.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"Mercado de Artesanias"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo8.jpg">
+                <a class="fancybox" rel="ligthbox" href="Public/img/t8.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -108,8 +108,8 @@
 
                         <div class="card-body">
                              
-                            <p class="card-text"> Si eres fan de los paisajes desde las alturas, no te puedes perder subir a la peña para disfrutar de una vista del  valle de Bravo, como su nombre lo dice. Si vas entre agosto y octubre,  tienes que darte un tiempo para poder admirar la llegada de la Mariposa Monarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
-                            <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
+                            <p class="card-text">En la zona hay una milenaria tradición de tallado de la obsidiana o vidrio volcánico desde que los antiguos pueblos prehispánicos fabricaban sus herramientas y utensilios de piedra. También trabajan el cuarzo, el ónix y otros materiales semi preciosos, así como el tallado de madera, que es de fama reconocida en todo el país. El producto vegetal emblemático regional es el nopal y con sus hojas carnosas y frutos preparan una gran variedad de comidas, dulces y bebidas. Los guisos teotihuacanos con nopal van con todas las carnes, incluyendo vacuna, cerdo, pollo, conejo, cordero, cabra y codorniz. La festividad en honor de San Juan Bautista tiene su día cumbre el 24 de junio, como en todo el mundo cristiano occidental. Otra venerada imagen de la ciudad es el Cristo Redentor, que es celebrado con una fiesta de hasta 8 días en la que sobresalen las danzas típicas, como las de los Santiagueros y los Sembradores. </p>
+                            <h2 align="center" class="  text-danger">TEOTIHUACAN TE ESPERA!</h2>
                         </div>
 
 
@@ -130,9 +130,9 @@
         transition: 1s;
     }
     .clrd-font{
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #00BFFF, #FF512F);
+        background: #83c13f;
+        background: -webkit-linear-gradient(to right, #91ac1f, #f8d625);
+        background: linear-gradient(to right, #91ac1f, #f8d625);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
@@ -197,17 +197,17 @@
     .portfolio_images_overlay .product_price i{
         margin-right: -10px;
     }
-    .zoom{
-        width: 200px;
-        height: 200px;
+   .zoom{
+        width: 130px;
+        height: 180px;
         position: absolute;
         bottom: -100px;
         right: -100px;
         border-radius: 50%;
 
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #F09819, #FF512F);
+        background: #b4e935;
+        background: -webkit-linear-gradient(to right, #63ac26, #b4e935);
+        background: linear-gradient(to right, #63ac26, #b4e935);
         box-shadow:0px 0px 0px 10px rgba(0,0,0,0.5);
         opacity:0.9;
     }
@@ -215,11 +215,11 @@
         content: "\f00e";
         font-family: FontAwesome;
         color: rgba(255, 255, 255, 0.5);
-        font-size: 70px;
-        padding-right: 20px;
+        font-size: 35px;
+        padding-right: 10px;
         position: absolute;
-        top: 10px;
-        left: 30px;
+        top: 30px;
+        left: 10px;
     }
     @media (min-width:769px) and (max-width:991px) {
         .portfolio_images_overlay {

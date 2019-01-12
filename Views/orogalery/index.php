@@ -130,9 +130,9 @@
         transition: 1s;
     }
     .clrd-font{
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #00BFFF, #FF512F);
+        background: #83c13f;
+        background: -webkit-linear-gradient(to right, #91ac1f, #f8d625);
+        background: linear-gradient(to right, #91ac1f, #f8d625);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
@@ -198,16 +198,16 @@
         margin-right: -10px;
     }
     .zoom{
-        width: 200px;
-        height: 200px;
+        width: 130px;
+        height: 180px;
         position: absolute;
         bottom: -100px;
         right: -100px;
         border-radius: 50%;
 
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #F09819, #FF512F);
+        background: #b4e935;
+        background: -webkit-linear-gradient(to right, #63ac26, #b4e935);
+        background: linear-gradient(to right, #63ac26, #b4e935);
         box-shadow:0px 0px 0px 10px rgba(0,0,0,0.5);
         opacity:0.9;
     }
@@ -215,11 +215,11 @@
         content: "\f00e";
         font-family: FontAwesome;
         color: rgba(255, 255, 255, 0.5);
-        font-size: 70px;
-        padding-right: 20px;
+        font-size: 35px;
+        padding-right: 10px;
         position: absolute;
-        top: 10px;
-        left: 30px;
+        top: 30px;
+        left: 10px;
     }
     @media (min-width:769px) and (max-width:991px) {
         .portfolio_images_overlay {

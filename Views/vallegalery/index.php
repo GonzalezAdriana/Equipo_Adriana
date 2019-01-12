@@ -4,7 +4,7 @@
   <div class="card-body">
   
  <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
-  <h2 align="center" class="  text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
+  <h2 align="center" class="text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -109,7 +109,7 @@
                         <div class="card-body">
                              
                             <p class="card-text"> Si eres fan de los paisajes desde las alturas, no te puedes perder subir a la peña para disfrutar de una vista del  valle de Bravo, como su nombre lo dice. Si vas entre agosto y octubre,  tienes que darte un tiempo para poder admirar la llegada de la Mariposa Monarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
-                            <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
+                            <h2 align="center" class="text-danger">VALLE DE BRAVO TE ESPERA!</h2>
                         </div>
 
 
@@ -130,9 +130,9 @@
         transition: 1s;
     }
     .clrd-font{
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #00BFFF, #FF512F);
+        background: #83c13f;
+        background: -webkit-linear-gradient(to right, #91ac1f, #f8d625);
+        background: linear-gradient(to right, #91ac1f, #f8d625);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
@@ -198,16 +198,16 @@
         margin-right: -10px;
     }
     .zoom{
-        width: 200px;
-        height: 200px;
+        width: 130px;
+        height: 180px;
         position: absolute;
         bottom: -100px;
         right: -100px;
         border-radius: 50%;
 
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #F09819, #FF512F);
+        background: #b4e935;
+        background: -webkit-linear-gradient(to right, #63ac26, #b4e935);
+        background: linear-gradient(to right, #63ac26, #b4e935);
         box-shadow:0px 0px 0px 10px rgba(0,0,0,0.5);
         opacity:0.9;
     }
@@ -215,11 +215,11 @@
         content: "\f00e";
         font-family: FontAwesome;
         color: rgba(255, 255, 255, 0.5);
-        font-size: 70px;
-        padding-right: 20px;
+        font-size: 35px;
+        padding-right: 10px;
         position: absolute;
-        top: 10px;
-        left: 30px;
+        top: 30px;
+        left: 10px;
     }
     @media (min-width:769px) and (max-width:991px) {
         .portfolio_images_overlay {

@@ -3,8 +3,8 @@
  
   <div class="card-body">
   
- <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
-  <h2 align="center" class="  text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
+ <h2 align="center" class="  text-danger">POSTALES METEPEC</h2>
+  <h2 align="center" class="  text-danger">"Recinto Ferial, San Isidro Metepec"</h2>
 
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -18,10 +18,10 @@
     <div class="row">
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo1.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/mete1.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"El Kiosco"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo1.jpg">
+                <h6 class="clrd-font">"Pueblo Tranquilo"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/mete1.jpg">
                     <div class="zoom"></div>
                  </a>
             </div>
@@ -29,10 +29,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo2.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/mete2.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Laguna"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo2.jpg">
+                <h6 class="clrd-font">"los altares"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/mete2.jpg">
                     <div class="zoom"></div>
                 </a>    
             </div>
@@ -40,10 +40,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo3.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/mete3.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
                 <h6 class="clrd-font">"Zona Centro"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo3.jpg">
+                <a class="fancybox" rel="ligthbox" href="Public/img/mete3.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -51,10 +51,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo4.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/mete4.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Calles Empedradas"</h6>
-                     <a class="fancybox" rel="ligthbox" href="Public/img/bravo4.jpg">
+                <h6 class="clrd-font">"Jardines relajantes"</h6>
+                     <a class="fancybox" rel="ligthbox" href="Public/img/mete4.jpg">
                         <div class="zoom"></div>
                      </a>
             </div>
@@ -62,10 +62,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo5.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/mete5.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Vistas a los Atardeceres"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo5.jpg">
+                <h6 class="clrd-font">"Casa Antigua"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/mete5.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -73,10 +73,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo6.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/mete6.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Torre"</h6>
-             <a class="fancybox" rel="ligthbox" href="Public/img/bravo6.jpg">
+                <h6 class="clrd-font">"la rica Gastronomia"</h6>
+             <a class="fancybox" rel="ligthbox" href="Public/img/mete6.jpg">
                 <div class="zoom"></div>
             </a>
             </div>
@@ -84,10 +84,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo7.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/metepecs.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"La Gran Stupa"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo7.jpg">
+                <h6 class="clrd-font">"Grandes costumbres"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/metepecs.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -95,10 +95,10 @@
 
 
         <div class="col-md-3 col-sm-4 col-xs-12 single_portfolio_text">
-            <img src="Public/img/bravo8.jpg" alt="Smiley face" width="300" height="348"/>
+            <img src="Public/img/mete8.jpg" alt="Smiley face" width="300" height="348"/>
             <div class="portfolio_images_overlay text-center">
-                <h6 class="clrd-font">"Mercado de Artesanias"</h6>
-                <a class="fancybox" rel="ligthbox" href="Public/img/bravo8.jpg">
+                <h6 class="clrd-font">"Bellos atardeceres"</h6>
+                <a class="fancybox" rel="ligthbox" href="Public/img/mete8.jpg">
                     <div class="zoom"></div>
                 </a>
             </div>
@@ -108,8 +108,8 @@
 
                         <div class="card-body">
                              
-                            <p class="card-text"> Si eres fan de los paisajes desde las alturas, no te puedes perder subir a la peña para disfrutar de una vista del  valle de Bravo, como su nombre lo dice. Si vas entre agosto y octubre,  tienes que darte un tiempo para poder admirar la llegada de la Mariposa Monarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
-                            <h2 align="center" class="  text-danger">VALLE DE BRAVO TE ESPERA!</h2>
+                            <p class="card-text"> En la zona donde se ubican los corredores artesanales, se encuentra la Casa del artesano, en donde los alfareros explican el elaborado proceso artesanal de los famosos Árboles de la Vida, Arcas de Noé, Tlanchanas y demás objetos característicos de este municipio. Parque Bicentenario: Ubicado en la zona sur de Metepec, este parque incluye trotapista, un centro de educación ambiental, ciclopista, espejo de agua y áreas recreativas. No puedes dejar Metepec sin haber probado los tradicionales curados de pulque de diferentes sabores o la famosa garañona, bebida alcohólica hecha de hierbas en infusión de alcohol y frutas. Cómo llegar: Desde la Ciudad de México, hay que tomar la Avenida Constituyentes justo en el entronque con Avenida Reforma y continuar por la carretera a la Marquesa, la carretera 15 que lleva a Toluca y finalmente, la carretera 55 hasta llegar a Metepec.</p>
+                            <h2 align="center" class="  text-danger">METEPEC TE ESPERA!</h2>
                         </div>
 
 
@@ -130,9 +130,9 @@
         transition: 1s;
     }
     .clrd-font{
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #00BFFF, #FF512F);
+        background: #83c13f;
+        background: -webkit-linear-gradient(to right, #91ac1f, #f8d625);
+        background: linear-gradient(to right, #91ac1f, #f8d625);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
@@ -198,28 +198,28 @@
         margin-right: -10px;
     }
     .zoom{
-        width: 200px;
-        height: 200px;
+        width: 130px;
+        height: 180px;
         position: absolute;
         bottom: -100px;
         right: -100px;
         border-radius: 50%;
 
-        background: #FF512F;
-        background: -webkit-linear-gradient(to right, #F09819, #FF512F);
-        background: linear-gradient(to right, #F09819, #FF512F);
+        background: #b4e935;
+        background: -webkit-linear-gradient(to right, #63ac26, #b4e935);
+        background: linear-gradient(to right, #63ac26, #b4e935);
         box-shadow:0px 0px 0px 10px rgba(0,0,0,0.5);
         opacity:0.9;
     }
     .zoom:before {
-        content: "\f00e";
+      content: "\f00e";
         font-family: FontAwesome;
         color: rgba(255, 255, 255, 0.5);
-        font-size: 70px;
-        padding-right: 20px;
+        font-size: 35px;
+        padding-right: 10px;
         position: absolute;
-        top: 10px;
-        left: 30px;
+        top: 30px;
+        left: 10px;
     }
     @media (min-width:769px) and (max-width:991px) {
         .portfolio_images_overlay {

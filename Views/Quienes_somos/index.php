@@ -11,7 +11,8 @@
 <!-- Team -->
 <section id="team" class="pb-5">
     <div class="container"  align="left">
-        <h5 class="section-title h1">QUIENES SOMOS?</h5>
+        <h2 class="section-title">QUIENES SOMOS?</h2>
+                  
         <div class="row">
             <!-- Team member -->
             <div   class="col col-xs-12 col-sm-6 col-md-4">
@@ -20,7 +21,7 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="Public/img/ad.jpg" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="Public/img/ady.jpg" alt="card image"></p>
                                     <h4 class="card-title">Adriana</h4>
                                     <p class="card-text">Desarrollador web de la pagina informativa:
                                      "Pueblos Magicos del Estado de México"</p>
@@ -32,27 +33,8 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">EDOMEX</h4>
-                                    <p class="card-text">Adriana González Flores estudiante de la carrera de Ingenieria en Sistemas Computacionales del Tecnologico de Estudios Superiores de Valle de Bravo</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" 
-                                                href="https://www.facebook.com/pekkessitaa.dazoo">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-gmail"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank"
-                                                 href="http://tesvb.edomex.gob.mx/">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
+                                    <p class="card-text">Adriana González Flores estudiante de la carrera de Ingenieria en Sistemas Computacionales del Tecnologico de Estudios Superiores de Valle de Bravo.</p>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -64,7 +46,7 @@
             <!-- Team member -->    <br><br>
 
             <div class="col-md-4">
-                <img class="card-img-top" src="Public/img/tesvb.jpg"width="140" height="320">
+                <img class="card-img-top" src="Public/img/tes3.jpg"width="140" height="290">
             </div>
 
                     <br><br>
@@ -77,9 +59,11 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_02.png" alt="card image"></p>
+                                    <p><img class=" img-fluid" src="Public/img/cris.jpg"
+                                        alt="card image"></p>
                                     <h4 class="card-title">Christian</h4>
-                                    <p class="card-text">Desarrollador de la pagina web Estado de Mexico.</p>
+                                    <p class="card-text">Desarrollador web de la pagina informativa:
+                                     "Pueblos Magicos del Estado de México".</p>
                                     <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
                                 </div>
                             </div>
@@ -88,20 +72,8 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title">EDOMEX</h4>
-                                    <p class="card-text">Esta es una pagina informativa la cual habla de los pueblos magicos de el estado de mexico.Es desarrollada por el estudiante Christian Briant Victoria Reyes de la carrera.Ingeneria en Sistemas Computacionales</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="#">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                    
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="http://tesvb.edomex.gob.mx/">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
+                                    <p class="card-text"> Christian Briant Victoria Reyes estudiante de la carrera de Ingenieria en Sistemas Computacionales del Tecnologico de Estudios Superiores de Valle de Bravo.</p>
+                                
                                 </div>
                             </div>
                         </div>
@@ -113,32 +85,67 @@
                 <div class="card">
                     <div class="card-body">
 
-            <h5 align="center" class="section-title h1">Acerca del TESVB</h5>
+            <h4 align="center" class="section-title ">Acerca del TESVB</h4>
 
             <h4 class="card-title">MISIÓN</h4>
           
-            <h4 class="card-title">Ofrecer a la comunidad servicios de educación superior tecnológica de calidad, formando profesionistas con conocimientos científicos, tecnológicos y humanísticos que contribuyan al desarrollo económico y social del estado y la nación, basado en la sustentabilidad, </h4>
+            <h5 class="card-title">Ofrecer a la comunidad servicios de educación superior tecnológica de calidad, formando profesionistas con conocimientos científicos, tecnológicos y humanísticos que contribuyan al desarrollo económico y social del estado y la nación, basado en la sustentabilidad, </h5>
 
             <h4 class="card-title">VISIÓN</h4>
 
-            <h4 class="card-title">Ser una Institución de educación superior tecnológica reconocida por la excelencia de sus programas académicos y la calidad de sus egresados, siendo pilar fundamental del desarrollo sostenido, sustentable y equitativo de la nación.</h4>
+            <h5 class="card-title">Ser una Institución de educación superior tecnológica reconocida por la excelencia de sus programas académicos y la calidad de sus egresados, siendo pilar fundamental del desarrollo sostenido, sustentable y equitativo de la nación.</h5>
 
 
-           <h5 align="center" class="section-title h1">Cómo llegar al TESVB?</h5>
+
+             <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="Public/img/tes6.jpg" alt="Card image cap" width="150" height="220">
+                    <div class="card-body">
+                        <h5 class="card-title border-bottom pb-3">La riqueza natural <a href="#" class="float-right d-inline-flex share"></a></h5>
+                        <p class="card-text">La casa de estudios TESVB cuenta con ciertas áreas tapizadas por el pasto y árboles que ayudan a que te sientas en un ambiente relajado y tranquilo. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="Public/img/tes8.jpg" alt="Card image cap" width="150" height="220">
+                    <div class="card-body">
+                        <h5 class="card-title border-bottom pb-3">Instalaciones de aprendizaje<a href="#" class="float-right d-inline-flex share"></a></h5>
+                        <p class="card-text">Contamos con las áreas de estudio de acuerdo a cada carrera y los equipos necesarios para poder obtener una mejor calidad de aprendizaje.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img class="card-img-top" src="Public/img/tes9.jpg" alt="Card image cap"width="150" height="220">
+                    <div class="card-body">
+                        <h5 class="card-title border-bottom pb-3">Estacionamiento propio<a href="#" class="float-right d-inline-flex share"></a></h5>
+                        <p class="card-text">Si cuentas con automovil particular, el TESVB cuenta con estacionamiento propio para brindar mayor seguridad y comodidad al visitarnos.</p>
+                    </div>
+                    <br>
+                </div>
+
+                <br><br>
+            </div>
+
+
+           <h4 align="center" class="section-title ">Cómo llegar al TESVB?</h4>
+
 
 <iframe frameborder="0" height="450" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15068.295122987216!2d-100.13480721936493!3d19.235616015132067!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cd63aca38889a5%3A0x3a95dc0c61a0b289!2sTecnol%C3%B3gico+de+Estudios+Superiores+de+Valle+de+Bravo!5e0!3m2!1ses-419!2smx!4v1432317443787" style="border:0" width="1100"></iframe>
 
-<h4 class="card-title">Km. 30, Carretera Federal Monumento Valle de Bravo, San Antonio de la Laguna, 51200 Valle de Bravo, Méx.</h4>
+<h5 align="center" class="card-title">Km. 30, Carretera Federal Monumento Valle de Bravo, San Antonio de la Laguna, 51200 Valle de Bravo, Méx.</h5>
 
-<h5 align="center" class="section-title h1">El TESVB te espera, VISITANOS PRONTO llollllllll!</h5>
-
+<h3 align="center" class="section-title ">El TESVB te espera, VISITANOS PRONTO!</h3>
 
 
 <!-- divs tarjeta -->
          </div>
     </div>
-    
-    
+
+
+
         </div>
     </div>
 
