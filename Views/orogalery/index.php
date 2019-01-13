@@ -6,6 +6,14 @@
  <h2 align="center" class="  text-danger">POSTALES EL ORO</h2>
   <h2 align="center" class="  text-danger">"El Oro Hidalgo, Estado de México"</h2>
 
+
+        <div class="card-body">
+                             
+                            <p class="card-text"> Vive la magia un día completito en el Oro de Hidalgo, este pueblo encantador del Estado de México, en el que puedes caminar tranquilamente por sus calles empedradas admirando la belleza de su Palacio Municipal y sus edificios señoriales, recorriendo la Plaza Gastronómica, conociendo el Entorno Cultural “Tiro Norte”, viviendo la aventura del parque Ecoturístico que se encuentra en la comunidad de “El Mogote” o ¿por qué no? dejándote llevar por el recorrido que propone su tranvía turístico los fines de semana. Un lugar imperdible del Oro de Hidalgo, es la Capilla de Santa María de Guadalupe, con un atrio cerrado lleno de rosas, en el centro aparece una escultura de Jesucristo. Para tomarte una selfie con el cielo azulado. Otro punto para fotografiarte es el jardín de rosas de la Capilla de Santa María de Guadalupe. Ponte tus zapatos más cómodos para recorrer con calma el Centro Artesanal “El Oro” que exhibe artesanías de todo el estado, desde productos culinarios, muebles y textiles como los cestos tejidos con hojas secas de pino.</p>
+                            <h2 align="center" class="  text-danger">EL ORO HIDALGO TE ESPERA!</h2>
+        </div>
+
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,11 +114,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text"> Vive la magia un día completito en el Oro de Hidalgo, este pueblo encantador del Estado de México, en el que puedes caminar tranquilamente por sus calles empedradas admirando la belleza de su Palacio Municipal y sus edificios señoriales, recorriendo la Plaza Gastronómica, conociendo el Entorno Cultural “Tiro Norte”, viviendo la aventura del parque Ecoturístico que se encuentra en la comunidad de “El Mogote” o ¿por qué no? dejándote llevar por el recorrido que propone su tranvía turístico los fines de semana. Un lugar imperdible del Oro de Hidalgo, es la Capilla de Santa María de Guadalupe, con un atrio cerrado lleno de rosas, en el centro aparece una escultura de Jesucristo. Para tomarte una selfie con el cielo azulado. Otro punto para fotografiarte es el jardín de rosas de la Capilla de Santa María de Guadalupe. Ponte tus zapatos más cómodos para recorrer con calma el Centro Artesanal “El Oro” que exhibe artesanías de todo el estado, desde productos culinarios, muebles y textiles como los cestos tejidos con hojas secas de pino.</p>
-                            <h2 align="center" class="  text-danger">EL ORO HIDALGO TE ESPERA!</h2>
-                        </div>
+                        
 
 
     </div>

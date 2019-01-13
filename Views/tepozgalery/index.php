@@ -6,6 +6,13 @@
  <h2 align="center" class="  text-danger">POSTALES TEPOTZOTLAN</h2>
   <h2 align="center" class="  text-danger">"Pueblo Magico de Ambiente Colonial"</h2>
 
+        <div class="card-body">
+                             
+                            <p class="card-text"> Si sales muy temprano o buscas otras opciones, tu opción es quedarte en el centro de Tepotzotlán Pueblo Mágico, donde te espera la magestuosidad de la Parroquia de San Pedro, donde además de ir a pedir perdón por tus pecados, admirarás el Arco Triunfal del Atrio que resalta el escudo papal. Otra opción, a un costado del Templo de San Francisco Javier, es un paseo por el famoso Museo Nacional del Virreinato, fundado en 1964, en las instalaciones de lo que anteriormente era el Colegio Jesuita del Espíritu Santo. Este lugar alberga cuarto exposiciones permanentes: México Virreinal,  Monjas Coronadas, Artes y Oficios de la Nueva España y Oriente en Nueva España. No olvides tomarte muchas fotos en la plaza central y degustar las diversas nieves de sabores que están de ofreciendo en los pequeños puestos. Aunque sabemos que Tepotzotlán Pueblo Mágico está a más de una hora de la ciudad, es el destino perfecto para alejarse del ruido y disfrutar de un ambiente muy colonial.</p>
+                            <h2 align="center" class="  text-danger">TEPOTZOTLAN TE ESPERA!</h2>
+        </div>
+
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,11 +113,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text"> Si sales muy temprano o buscas otras opciones, tu opción es quedarte en el centro de Tepotzotlán Pueblo Mágico, donde te espera la magestuosidad de la Parroquia de San Pedro, donde además de ir a pedir perdón por tus pecados, admirarás el Arco Triunfal del Atrio que resalta el escudo papal. Otra opción, a un costado del Templo de San Francisco Javier, es un paseo por el famoso Museo Nacional del Virreinato, fundado en 1964, en las instalaciones de lo que anteriormente era el Colegio Jesuita del Espíritu Santo. Este lugar alberga cuarto exposiciones permanentes: México Virreinal,  Monjas Coronadas, Artes y Oficios de la Nueva España y Oriente en Nueva España. No olvides tomarte muchas fotos en la plaza central y degustar las diversas nieves de sabores que están de ofreciendo en los pequeños puestos. Aunque sabemos que Tepotzotlán Pueblo Mágico está a más de una hora de la ciudad, es el destino perfecto para alejarse del ruido y disfrutar de un ambiente muy colonial.</p>
-                            <h2 align="center" class="  text-danger">TEPOTZOTLAN TE ESPERA!</h2>
-                        </div>
+                        
 
 
     </div>

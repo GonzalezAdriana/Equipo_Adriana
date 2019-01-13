@@ -6,6 +6,15 @@
  <h2 align="center" class="  text-danger">POSTALES METEPEC</h2>
   <h2 align="center" class="  text-danger">"Recinto Ferial, San Isidro Metepec"</h2>
 
+
+        <div class="card-body">
+                             
+                            <p class="card-text"> En la zona donde se ubican los corredores artesanales, se encuentra la Casa del artesano, en donde los alfareros explican el elaborado proceso artesanal de los famosos Árboles de la Vida, Arcas de Noé, Tlanchanas y demás objetos característicos de este municipio. Parque Bicentenario: Ubicado en la zona sur de Metepec, este parque incluye trotapista, un centro de educación ambiental, ciclopista, espejo de agua y áreas recreativas. No puedes dejar Metepec sin haber probado los tradicionales curados de pulque de diferentes sabores o la famosa garañona, bebida alcohólica hecha de hierbas en infusión de alcohol y frutas. Cómo llegar: Desde la Ciudad de México, hay que tomar la Avenida Constituyentes justo en el entronque con Avenida Reforma y continuar por la carretera a la Marquesa, la carretera 15 que lleva a Toluca y finalmente, la carretera 55 hasta llegar a Metepec.</p>
+                            <h2 align="center" class="  text-danger">METEPEC TE ESPERA!</h2>
+        </div>
+
+
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,12 +115,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text"> En la zona donde se ubican los corredores artesanales, se encuentra la Casa del artesano, en donde los alfareros explican el elaborado proceso artesanal de los famosos Árboles de la Vida, Arcas de Noé, Tlanchanas y demás objetos característicos de este municipio. Parque Bicentenario: Ubicado en la zona sur de Metepec, este parque incluye trotapista, un centro de educación ambiental, ciclopista, espejo de agua y áreas recreativas. No puedes dejar Metepec sin haber probado los tradicionales curados de pulque de diferentes sabores o la famosa garañona, bebida alcohólica hecha de hierbas en infusión de alcohol y frutas. Cómo llegar: Desde la Ciudad de México, hay que tomar la Avenida Constituyentes justo en el entronque con Avenida Reforma y continuar por la carretera a la Marquesa, la carretera 15 que lleva a Toluca y finalmente, la carretera 55 hasta llegar a Metepec.</p>
-                            <h2 align="center" class="  text-danger">METEPEC TE ESPERA!</h2>
-                        </div>
-
+                        
 
     </div>
 </div>

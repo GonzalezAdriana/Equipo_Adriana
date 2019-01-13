@@ -6,6 +6,14 @@
  <h2 align="center" class="  text-danger">POSTALES ACULCO</h2>
   <h2 align="center" class="  text-danger">"Lugar donde se mueve el agua."</h2>
 
+
+        <div class="card-body">
+                             
+                            <p class="card-text"> Si eres fan de los paisajes es recomiendable comenzar por caminar por el primer cuadro del centro histórico, pasear por la Plaza Juárez con su hermoso quiosco hará que te detengas a tomarte un par de selfies y algunas fotos que para el clásico recuerdo. Cuando menos te des cuenta verás edificaciones imponentes como la Parroquia y el Ex convento de San Jerónimo, con su fachada barroca; ahí mismo lo que más llama la atención sus arquerías y portales con encantadores detalles. Lo mejor después de la comilona es tomar un paseo por las áreas naturales que se encuentran en las afueras del pueblo. No lo vas a creer, pero Aculco cuenta con humedales y la presa El Tepozán. El encanto de Aculco lo verás también en sus tradicionales y antiguos lavaderos. Es posible todavía ver a mujeres lavando sus prendas, así como a sus hijos bañándose y salpicándote agua. Si eres testigo de esto te sugiero acercarte y preguntarles por las leyendas que se esconden en este lugar.
+                            </p>
+                            <h2 align="center" class="  text-danger">ACULCO TE ESPERA!</h2>
+        </div>
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,12 +114,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text"> Si eres fan de los paisajes es recomiendable comenzar por caminar por el primer cuadro del centro histórico, pasear por la Plaza Juárez con su hermoso quiosco hará que te detengas a tomarte un par de selfies y algunas fotos que para el clásico recuerdo. Cuando menos te des cuenta verás edificaciones imponentes como la Parroquia y el Ex convento de San Jerónimo, con su fachada barroca; ahí mismo lo que más llama la atención sus arquerías y portales con encantadores detalles. Lo mejor después de la comilona es tomar un paseo por las áreas naturales que se encuentran en las afueras del pueblo. No lo vas a creer, pero Aculco cuenta con humedales y la presa El Tepozán. El encanto de Aculco lo verás también en sus tradicionales y antiguos lavaderos. Es posible todavía ver a mujeres lavando sus prendas, así como a sus hijos bañándose y salpicándote agua. Si eres testigo de esto te sugiero acercarte y preguntarles por las leyendas que se esconden en este lugar.
-</p>
-                            <h2 align="center" class="  text-danger">ACULCO TE ESPERA!</h2>
-                        </div>
+                        
 
 
     </div>

@@ -6,6 +6,13 @@
  <h2 align="center" class="  text-danger">POSTALES TEOTIHUACAN</h2>
   <h2 align="center" class="  text-danger">"San Juan Teotihuacan, México"</h2>
 
+    <div class="card-body">
+                             
+                            <p class="card-text">En la zona hay una milenaria tradición de tallado de la obsidiana o vidrio volcánico desde que los antiguos pueblos prehispánicos fabricaban sus herramientas y utensilios de piedra. También trabajan el cuarzo, el ónix y otros materiales semi preciosos, así como el tallado de madera, que es de fama reconocida en todo el país. El producto vegetal emblemático regional es el nopal y con sus hojas carnosas y frutos preparan una gran variedad de comidas, dulces y bebidas. Los guisos teotihuacanos con nopal van con todas las carnes, incluyendo vacuna, cerdo, pollo, conejo, cordero, cabra y codorniz. La festividad en honor de San Juan Bautista tiene su día cumbre el 24 de junio, como en todo el mundo cristiano occidental. Otra venerada imagen de la ciudad es el Cristo Redentor, que es celebrado con una fiesta de hasta 8 días en la que sobresalen las danzas típicas, como las de los Santiagueros y los Sembradores. </p>
+                            <h2 align="center" class="  text-danger">TEOTIHUACAN TE ESPERA!</h2>
+    </div>
+
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,11 +113,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text">En la zona hay una milenaria tradición de tallado de la obsidiana o vidrio volcánico desde que los antiguos pueblos prehispánicos fabricaban sus herramientas y utensilios de piedra. También trabajan el cuarzo, el ónix y otros materiales semi preciosos, así como el tallado de madera, que es de fama reconocida en todo el país. El producto vegetal emblemático regional es el nopal y con sus hojas carnosas y frutos preparan una gran variedad de comidas, dulces y bebidas. Los guisos teotihuacanos con nopal van con todas las carnes, incluyendo vacuna, cerdo, pollo, conejo, cordero, cabra y codorniz. La festividad en honor de San Juan Bautista tiene su día cumbre el 24 de junio, como en todo el mundo cristiano occidental. Otra venerada imagen de la ciudad es el Cristo Redentor, que es celebrado con una fiesta de hasta 8 días en la que sobresalen las danzas típicas, como las de los Santiagueros y los Sembradores. </p>
-                            <h2 align="center" class="  text-danger">TEOTIHUACAN TE ESPERA!</h2>
-                        </div>
+                        
 
 
     </div>

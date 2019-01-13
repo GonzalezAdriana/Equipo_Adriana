@@ -6,6 +6,15 @@
  <h2 align="center" class="  text-danger">POSTALES IXTAPAN</h2>
   <h2 align="center" class="  text-danger">"sobre la sal, México"</h2>
 
+
+     <div class="card-body">
+                             
+                            <p class="card-text"> Si vas en temporada baja, lo más probable es que no todos los restaurantes estén abiertos, por lo que la comida disponible será del tipo de tortas, hamburguesas y comida rápida en general, así que si tienes una dieta más restringida, toma tus precauciones. Si vas en fin de semana o en vacaciones, no te preocupes porque habrá de todo. El balneario tiene asadores disponibles, por lo que puedes disfrutar de una carne asada en compañía de toda la familia (puedes llevar tus propios alimentos). Si no quieres llevar coche, el parque ofrece dos paquetes que incluyen transportación, sólo disponibles durante los fines de semana. El Paquete Básico cuesta $270 e incluye entrada y transportación redonda; el Paquete Todo Pagado incluye entrada, transportación y comida buffet. Si no quieres llevar coche, el parque ofrece dos paquetes que incluyen transportación, sólo disponibles durante los fines de semana. El Paquete Básico cuesta $270 e incluye entrada y transportación redonda; el Paquete Todo Pagado incluye entrada, transportación y comida buffet. </p>
+
+                            <h2 align="center" class="  text-danger">IXTAPAN TE ESPERA!</h2>
+    </div>
+
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,12 +115,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text"> Si vas en temporada baja, lo más probable es que no todos los restaurantes estén abiertos, por lo que la comida disponible será del tipo de tortas, hamburguesas y comida rápida en general, así que si tienes una dieta más restringida, toma tus precauciones. Si vas en fin de semana o en vacaciones, no te preocupes porque habrá de todo. El balneario tiene asadores disponibles, por lo que puedes disfrutar de una carne asada en compañía de toda la familia (puedes llevar tus propios alimentos). Si no quieres llevar coche, el parque ofrece dos paquetes que incluyen transportación, sólo disponibles durante los fines de semana. El Paquete Básico cuesta $270 e incluye entrada y transportación redonda; el Paquete Todo Pagado incluye entrada, transportación y comida buffet. Si no quieres llevar coche, el parque ofrece dos paquetes que incluyen transportación, sólo disponibles durante los fines de semana. El Paquete Básico cuesta $270 e incluye entrada y transportación redonda; el Paquete Todo Pagado incluye entrada, transportación y comida buffet. </p>
-
-                            <h2 align="center" class="  text-danger">IXTAPAN TE ESPERA!</h2>
-                        </div>
+                       
 
 
     </div>

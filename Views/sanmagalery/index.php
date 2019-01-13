@@ -6,6 +6,15 @@
  <h2 align="center" class="  text-danger">POSTALES SAN MARTIN</h2>
   <h2 align="center" class="  text-danger">"San Martin de las Piramides, México"</h2>
 
+
+ <div class="card-body">
+                             
+                            <p class="card-text"> En San Martín de las Pirámides podrás disfrutar de un clima templado y seco, cuya temperatura promedio en el año se sitúa en torno a los 15 °C, presentando pocas variaciones a lo largo del año. En el periodo más cálido, de mayo a junio, hacen unos 18 °C y luego el termómetro empieza a descender hasta aproximarse a los 12 °C en diciembre y enero. En San Martín de las Pirámides no llueve mucho, situándose las precipitaciones por debajo de los 600 mm en el año, con una temporada lluviosa que va de mayo a octubre. Entre noviembre y abril llueve muy poco. Pirámides hay otras edificaciones de interés arquitectónico, tanto clásico como moderno, principalmente representadas por el templo de San Martín Obispo de Tours y la iglesia de Ecce Homo. La Feria Nacional de la Tuna, que tiene lugar en agosto, fue establecida para dar a conocer y fomentar los usos culinarios y estéticos de la fruta y el árbol de nopal.</p>
+                            <h2 align="center" class="  text-danger">SAN MARTIN TE ESPERA!</h2>
+</div>
+
+
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,12 +115,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text"> En San Martín de las Pirámides podrás disfrutar de un clima templado y seco, cuya temperatura promedio en el año se sitúa en torno a los 15 °C, presentando pocas variaciones a lo largo del año. En el periodo más cálido, de mayo a junio, hacen unos 18 °C y luego el termómetro empieza a descender hasta aproximarse a los 12 °C en diciembre y enero. En San Martín de las Pirámides no llueve mucho, situándose las precipitaciones por debajo de los 600 mm en el año, con una temporada lluviosa que va de mayo a octubre. Entre noviembre y abril llueve muy poco. Pirámides hay otras edificaciones de interés arquitectónico, tanto clásico como moderno, principalmente representadas por el templo de San Martín Obispo de Tours y la iglesia de Ecce Homo. La Feria Nacional de la Tuna, que tiene lugar en agosto, fue establecida para dar a conocer y fomentar los usos culinarios y estéticos de la fruta y el árbol de nopal.</p>
-                            <h2 align="center" class="  text-danger">SAN MARTIN TE ESPERA!</h2>
-                        </div>
-
+                       
 
     </div>
 </div>

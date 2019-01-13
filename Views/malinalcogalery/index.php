@@ -6,6 +6,14 @@
  <h2 align="center" class="  text-danger">POSTALES MALINALCO</h2>
   <h2 align="center" class="  text-danger">"Senderismo al amanecer Malinalco"</h2>
 
+
+        <div class="card-body">
+                             
+                            <p class="card-text"> Características:Se incorporó al programa Pueblos Mágicos en el año de 2010. El nombre de Malinalco se compone de malinalli, planta gramínea llamada “zacate del carbonero”, con la que se elaboran cuerdas o mecates; de xóchitl: “flor” y de co: “en”. Por lo tanto, significa “Donde se adora a Malinalxóchitl, la flor del malinalli”. En el jardín principal se celebra el nombramiento de Malinalco como municipio, el 1 de Enero . Hay desfiles, charreadas y otros eventos educativos.​El 6 de agosto es la fiesta del Divino Salvador; se oficia una misa, hay danzas y bailes popularesMonarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
+                            <h2 align="center" class="  text-danger">MALINALCO TE ESPERA!</h2>
+        </div>
+
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -106,11 +114,7 @@
 
         <br>
 
-                        <div class="card-body">
-                             
-                            <p class="card-text"> Características:Se incorporó al programa Pueblos Mágicos en el año de 2010. El nombre de Malinalco se compone de malinalli, planta gramínea llamada “zacate del carbonero”, con la que se elaboran cuerdas o mecates; de xóchitl: “flor” y de co: “en”. Por lo tanto, significa “Donde se adora a Malinalxóchitl, la flor del malinalli”. En el jardín principal se celebra el nombramiento de Malinalco como municipio, el 1 de Enero . Hay desfiles, charreadas y otros eventos educativos.​El 6 de agosto es la fiesta del Divino Salvador; se oficia una misa, hay danzas y bailes popularesMonarca, pues Valle cuenta con zonas boscosas en donde se pueden admirar. Otro lugar que por ningún motivo se te puede pasar es ir a la cascada velo de novia. Ubicado a 20 min del centro de Valle. Reconecta con tu ser interior y ten una sesión de yoga en absoluta calma en la cascada Velo de Novia. Busca un rincón tranquilo, siéntate en posición de flor de loto, cierra los ojos y déjate llevar por el arrullo del agua y el canto de las aves. Respira profundo, deja que la paz inunde tu espíritu. Si quieres una sesión guiada de Hatha yoga con maestros especializados, vete al Centro Narayana, un pequeño templo en el centro de Valle en el que podrás meditar con toda tranquilidad.</p>
-                            <h2 align="center" class="  text-danger">MALINALCO TE ESPERA!</h2>
-                        </div>
+                        
 
 
     </div>
