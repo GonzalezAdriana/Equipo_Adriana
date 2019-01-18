@@ -6,7 +6,9 @@
  * Time: 07:29 PM
  */
 ?>
-
+<script type="text/javascript">
+    window.location.href = "<?php echo URL?>login";
+</script>
 <script type="text/javascript">
     swal({
             title: "Cerrar sesión",

@@ -51,6 +51,8 @@ private $Personas,$Sexos,$Tipos_usuarios,$Usuarios;
             $this->Usuarios->set('pass',$_POST["pass"]);
             $this->Personas->add();
             $datos1=$this->Personas->getAll();
+            header("Location:".URL."Personas");
+
             $datos[0]=$datos1;
 
             $this->Usuarios->add();
@@ -83,21 +85,25 @@ private $Personas,$Sexos,$Tipos_usuarios,$Usuarios;
         $datos=$this->Personas->getOne($id[0]);
         return $datos;
     }
+
     public function actualizar($id)
     {
         if($_POST)
         {
             $this->Personas->set("id_persona",$id[0]);
-            $this->Personas->set('nombre',$_POST["nombr"]);
+            $this->Personas->set('nombre',$_POST["nombre"]);
             $this->Personas->set('ap_p',$_POST["ap_p"]);
             $this->Personas->set('ap_m',$_POST["ap_m"]);
-            $this->Personas->set('id_usuario',$_POST["id_puesto"]);
+            $this->Personas->set('id_usuario',$_POST["id_usuario"]);
             $this->Personas->set('edad',$_POST["edad"]);
             $this->Personas->set('id_sexo',$_POST["id_sexo"]);
             $this->Personas->update();
             $datos1=$this->Personas->getAll();
+            header("Location:".URL."Personas");
+
             $datos[0]=$datos1;
             return $datos;
+
         }
     }
     public function print_pdf()

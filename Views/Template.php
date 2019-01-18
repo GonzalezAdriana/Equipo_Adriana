@@ -7,55 +7,32 @@ class Template
     {
        ?>
         <!DOCTYPE html>
-        <!------------------------------------------------------------------------------->
-        <html lang="en">
-        <!------------------------------------------------------------------------------->
+        <html>
         <head>
-            <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+            <meta charset="utf-8">
+            <title>Valle de Bravo-Pueblo Mágico</title>
 
-            <link href="<?php echo URL?>/Public/css/bootstrap.css" type="text/css" rel="stylesheet">
-            <link href="<?php echo URL?>/Public/css/bootstrap.css" type="text/css" rel="stylesheet">
-            <link href="<?php echo URL?>/Public/css/bootstrap-reboot.css" type="text/css" rel="stylesheet">
-            <link rel="stylesheet" href="<?php echo URL?>/Public/style.css">
-            <link rel="stylesheet" href="<?php echo URL?>/dist/css/bootstrap.min.css">
-            <link href="<?php echo URL?>/Public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-            <link href="<?php echo URL?>/Public/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-            <link href="<?php echo URL?>/Public/css/grayscale.css" rel="stylesheet">
-            <link rel="stylesheet" href="<?php echo URL?>/Public/Style2.css">
-            <link rel="stylesheet" href="<?php echo URL?>/Public/EstiloLogin.css">
+            <link type="text/css" href="<?php echo URL ?>Public/css/login.css" rel="stylesheet">
+            <link type="text/css" href="<?php echo URL ?>Public/css/style3.css" rel="stylesheet">
+            <link rel="stylesheet" href="<?php echo URL ?>Public/css/bootstrap.min.css" >
+            <link rel="stylesheet" href="<?php echo URL ?>Public/css/sweet-alert.min.css">
 
-            <link rel="stylesheet" href="<?php echo URL ?>Public/css/sweetalert.css">
-            <script type="text/javascript" src="<?php echo URL?>/Public/js/mdb-lightbox-ui.js"></script>
+            <link type="text/css" href="<?php echo URL ?>Public/css/glyphicons.css" rel="stylesheet">
+            <script type="text/javascript" src="<?php echo URL ?>Public/js/sweet-alert.min.js"></script>
+            <script type="text/javascript" src="<?php echo URL ?>Public/js/jquery-3.3.1.min.js"></script>
+            <script type="text/javascript" src="<?php echo URL ?>Public/js/bootstrap.min.js" ></script>
+            <script type="text/javascript" src="<?php echo URL?>Public/js/highcharts.js"></script>
+            <script type="text/javascript" src="<?php echo URL?>Public/js/jquery.validate.min.js"></script>
+        </head>
 
-            <script type="text/javascript" src="<?php echo URL?>/Public/js/bootstrap.bundle.min.js"></script>
-            <script type="text/javascript" src="<?php echo URL?>/Public/js/bootstrap.js"></script>
-            <script type="text/javascript" src="<?php echo URL?>/Public/js/jquery.min.js"></script>
-            <script src="<?php echo URL?>/dist/js/jquery.js"></script>
-            <script src="<?php echo URL?>/dist/js/bootstrap.min.js"></script>
-            <script src="<?php echo URL?>/Public/vendor/jquery/jquery.min.js"></script>
-            <script src="<?php echo URL?>/Public/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-            <script src="<?php echo URL?>/Public/vendor/jquery-easing/jquery.easing.min.js"></script>
-            <script src="<?php echo URL?>/Public/js/grayscale.min.js"></script>
-
-
-            <script type="text/javascript" src="<?php echo URL ?>Public/js/jquery.validate.min.js">
-                //<script src="<?php echo URL ?>Public/js/sweetalert.min.js" type="text/javascript"></script>
-            <script src="<?php echo URL ?>Public/js/jquery.js"></script>
-            <script src="<?php echo URL ?>Public/js/bootstrap.min.js"></script>
-            <script src="<?php echo URL ?>Public/js/sweetalert.min.js" type="text/javascript"></script>
-    </head>
-
-    <body>
+        <body>
         <main>
             <title>EDOMEX</title>
             <nav class=" bg navbar navbar-expand-lg navbar-light bg-dark fixed-top text-white"  >
                 <div class="container">
                     <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>inicio" class="btn btn-primary js-scroll-trigger " id="sesion ">EDOMEX</a>
 
-                    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                        <i class="fas fa-bars"></i>
-                    </button>
 
                     <div class="collapse navbar-collapse " id="navbarResponsive"><ul class="navbar-nav ml-auto">
 

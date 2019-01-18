@@ -11,6 +11,8 @@ namespace AppData\Model;
 
 class Personas
 {
+    private $tabla="Personas";
+
     private  $id_persona;
     private  $nombre;
     private  $ap_p;
@@ -61,11 +63,11 @@ class Personas
     }
     function update()
     {
-        $sql = "update personas set nombre='{$this->nombre}',
-               ap_p='{$this->ap_}', ap_m='{$this->ap_p}',id_usuario='{$this->id_usuario}',edad='{$this->id_edad}',id_sexo='{$this->id_sexo}'
-                
-                where id_persona='{$this->id_persona}'";
+        $sql = "update {$this->tabla} set nombre='{$this->nombre}',ap_p='{$this->ap_p}', ap_m='{$this->ap_m}',id_usuario='{$this->id_usuario}',edad='{$this->edad}',id_sexo='{$this->id_sexo}'  where id_persona='{$this->id_persona}'";
         $this->conexion->QuerySimple($sql);
     }
+
+
+
 
 }

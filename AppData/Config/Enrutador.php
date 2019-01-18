@@ -1,49 +1,47 @@
-<?php namespace AppData\Config; //Se crea  nombre de namespace / se suele llamar boostrap
-
-class Enrutador //Se crea clase de enrutador
+<?php
+/**
+ * Created by PhpStorm.
+ * User: JAZMIN
+ * Date: 11/05/2018
+ * Time: 07:32 AM
+ */
+namespace AppData\Config;
+class Enrutador
 {
-    public static function run(Request $request) //Se crea metodo estatico, recibe como parametro  el request
+    public static function run(Request $request)
     {
-        $controlador =$request->getControlador(). "Controller"; //Se manda a llamar el controlador esto con el nombre camel space
-        $ruta=ROOT."AppData".DS."Controller".DS.$controlador.".php";
-        // echo $ruta;
-        $metodo=$request->getMetodo();
-        $argumento=$request->getArgumento();
-        //print_r($ruta);
-        if(is_readable($ruta))
-        {
+        $controlador = $request->getControlador() . "Controller";
+        $ruta = ROOT . "AppData" . DS . "Controller" . DS . $controlador . ".php";
+
+        $metodo = $request->getMetodo();
+        $argumento = $request->getArgumento();
+
+        if (is_readable($ruta)) {
             require_once($ruta);
-            $mostrar="AppData\\Controller\\".$controlador;
-            // echo $mostrar;
+            $mostrar = "AppData\\Controller\\" . $controlador;
             $controlador = new $mostrar;
-            //$controlador->index(); Llamar al metodo index y decirle que se ejecute para mostrar el mensaje.
-            //print_r($ruta);
-            if(!isset($argumento))
-            {
-                $datos=call_user_func(array($controlador,$metodo));
-                //print_r($datos);
+            if (!isset($argumento)) {
+                $datos = call_user_func(array($controlador, $metodo));
+            } else {
+                $datos = call_user_func(array($controlador, $metodo), $argumento);
             }
+        }
+
+        if ($request->getMetodo() != "modificar") {
+            $ruta = ROOT . "Views" . DS . $request->getControlador() . DS . $request->getMetodo() . ".php";
+
+            if (is_readable($ruta))
+                require_once($ruta);
             else
-            {
-                if(is_callable(array($controlador,$metodo)))
-                    $datos=call_user_func_array(array($controlador,$metodo),$argumento);
-                //print_r($datos);
-            }
-        }
-        $ruta=ROOT."Views".DS.$request->getControlador().DS.$request->getMetodo().".php";
-        //print_r($ruta);
-        if (is_readable($ruta))
-        {
-            if (empty($_POST))
-            {
-                require_once $ruta;
-                //print_r($ruta);
-            }
-        }
-        else
-        {
-            echo "ruta no encontrada";
+                if ($request->getMetodo() == "eliminar" || $request->getMetodo() == "actualizar" || $request->getMetodo() == "crear") {
+                    $ruta = ROOT . "Views" . DS . $request->getControlador() . DS . "tabla" . ".php";
+                    if (is_readable($ruta))
+                        require_once($ruta);
+                    else
+                        echo "Esta página no existe";
+                }
+        } else {
+            echo(json_encode(mysqli_fetch_assoc($datos)));
         }
     }
 }
-?>
