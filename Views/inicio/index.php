@@ -7,7 +7,7 @@
             <div class="card">
                 <img class="card-img-top" src="Public/img/valle.jpg" alt="Card image cap" width="150" height="220">
                 <div class="card-body">
-                    <h5 class="card-title border-bottom pb-3">Valle de Bravo Mexico </h5>
+                    <h5 class="card-title border-bottom pb-3">Valle de Bravo</h5>
                     <p class="card-text">Valle de Bravo es una oportunidad para disfrutar las atracciones de los grandes clubes de playa sin tener que salir del centro del país.</p>
                     <a href="<?php echo URL?>Valle" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>
 
