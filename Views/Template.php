@@ -29,20 +29,35 @@ class Template
         <body>
         <main>
             <title>EDOMEX</title>
-            <nav class=" bg navbar navbar-expand-lg navbar-light bg-dark fixed-top text-white"  >
-                <div class="container">
-                    <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>inicio" class="btn btn-primary js-scroll-trigger " id="sesion ">EDOMEX</a>
+          <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top align-content-center" >
+                   
+                    <a href="<?php echo URL?>inicio"><img src="<?php echo URL?>Public/img/logo.jpg" width="110" heigh="10"></a>
 
 
                     <div class="collapse navbar-collapse " id="navbarResponsive"><ul class="navbar-nav ml-auto">
 
-                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>Quienes_somos" class="btn btn-primary js-scroll-trigger " id="sesion ">Quienes somos </a>
+                            
+                             <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="<?php echo URL?>Quienes_somos">
+                                    <img src="<?php echo URL?>Public/img/quien1.png" alt="ok" width="130" heigh="40" class="img-raised  img-fluid">
+                                </a>
+                            </li>
+                            </ul>
 
+                             <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="<?php echo URL?>login">
+                                    <img src="<?php echo URL?>Public/imagenes/user.png" alt="ok" width="40" heigh="40" class="img-raised  img-fluid">
+                                </a>
+                            </li>
+                            </ul>
 
-                            <a class="navbar-brand js-scroll-trigger text-white" href="<?php echo URL?>login" class="btn btn-primary js-scroll-trigger " id="sesion ">Iniciar sesion</a>
 
                         </ul>
                     </div>
+
+
                 </div>
             </nav>
         </main>
@@ -53,16 +68,17 @@ class Template
     }
     public function footer(){
         ?>
-        <footer class="container">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom">
-                <div class="container">
+        
+         
 
-                    <p class="  text-white ">Todos los derechos reservados TESVB 2018</p>
+                            <footer class="py-3 bg-dark">
 
-                </div>
-            </nav>
+                              <!-- Copyright -->
+                              <div class="footer-copyright text-center text-white py-3">© 2018 Copyright: Todos los derechos reservados TESVB
+                              </div>
+                              <!-- Copyright -->
 
-        </footer>
+                            </footer>
 
 
         </body>

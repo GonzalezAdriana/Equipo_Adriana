@@ -1,13 +1,22 @@
 <!-- Page Content -->
 <br>
+
+<h5 class="card-title border-bottom pb-3">...</h5>
+
 <div class="container">
+ <h2 align="center" class="  text-danger">PUEBLOS MAGICOS DEL ESTADO DE MÉXICO</h2>
+   <h5 align="center" class="card-title border-bottom pb-3">Tesoros Turísticos  </h5>
+
+                
+                
+                <h5 align="center" class="  text-danger">Aún sin plan para este fin de semana, visita los Pueblos Magicos cercanos del Estado de Mexico.</h5>
 
     <div class="row">
         <div class="col-md-4">
             <div class="card">
                 <img class="card-img-top" src="Public/img/valle.jpg" alt="Card image cap" width="150" height="220">
                 <div class="card-body">
-                    <h5 class="card-title border-bottom pb-3">Valle de Bravo</h5>
+                    <h5 class="card-title border-bottom pb-3">Valle de Bravo </h5>
                     <p class="card-text">Valle de Bravo es una oportunidad para disfrutar las atracciones de los grandes clubes de playa sin tener que salir del centro del país.</p>
                     <a href="<?php echo URL?>Valle" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>
 
@@ -38,6 +47,11 @@
             </div>
         </div>
     </div>
+
+
+
+
+
     <div class="row">
         <div class="col-md-4">
             <div class="card">
@@ -67,12 +81,14 @@
                     <p class="card-text">Pueblo Magico en el Estado de México, este pintoresco pueblo tiene la característica de tener muy cercano todavía a habitantes de la cultura Otomi.</p>
 
                     <a href="<?php echo URL?>Aculco" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>
-
-
                 </div>
             </div>
         </div>
     </div>
+
+        
+
+
     <div class="row">
         <div class="col-md-4">
             <div class="card">
@@ -107,11 +123,15 @@
                     <p class="card-text">San Martin de las Piramides  Pueblo Mágico del Estado de México, por el área prehispánica que se encuentra en su territorio.</p>
                     <a href="<?php echo URL?>SanMartin" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>
                 </div>
+
             </div><br>
         </div><br><br>
+
+
    <br>
     </div><br><br><br>
 </div>
+
 <br><br><br>
 <!-- /.container -->
 <!-- Contenedor Principal -->
