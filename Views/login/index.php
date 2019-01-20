@@ -2,6 +2,8 @@
 <body id="LoginForm">
 <div class="container">
     <h1 class="form-heading"></h1>
+ 
+<br>
     <div class="login-form">
         <div class="main-div">
             <div><?php echo isset($_SESSION["error_login"])?$_SESSION["error_login"]:""?></div>

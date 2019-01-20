@@ -11,6 +11,8 @@
 <!-- Team -->
 <section id="team" class="pb-5">
     <div class="container"  align="left">
+
+<br>
         <h2 class="section-title">QUIENES SOMOS?</h2>
                   
         <div class="row">
@@ -43,7 +45,7 @@
             </div>
                 <br><br>
             <!-- ./Team member -->
-            <!-- Team member -->    <br><br>
+            <!-- Team member -->   
 
             <div class="col-md-4">
                 <img class="card-img-top" src="Public/img/tes3.jpg"width="140" height="290">
@@ -51,8 +53,7 @@
 
                     <br><br>
             <!-- ./Team member -->
-            <!-- Team member -->    <br><br>
-
+            <!-- Team member -->   
       <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
                     <div class="mainflip">

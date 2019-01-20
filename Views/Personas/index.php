@@ -6,6 +6,9 @@
 </head>
 <body>
 <div class="container">
+    <br>
+    <h2>...</h2>
+    <br>
     <div class="d-flex justify-content-center h-100">
         <div class="card">
             <div class="card-header">
@@ -61,7 +64,7 @@
                         }
                         ?>
                     </select>
-
+                    <br>
 
                     <div class="input-group form-group">
                         <div class="input-group-prepend">
@@ -87,7 +90,7 @@
                         ?>
                     </select>
 
-
+                    <br>
                     <div class="form-group">
                         <input   type="submit" value="Guardar"  class="btn float-right login_btn">
                     </div>
@@ -168,6 +171,8 @@
                             }
                             ?>
                         </select>
+
+
                         <select class="form-control" name="id_usuario" id="id_usuario">
                             <option value="">Selecciona</option>
                             <?php

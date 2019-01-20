@@ -1,4 +1,8 @@
 <div class="container">
+  
+    <br>
+    <h2> ....</h2>
+    <br>
     <h2  align="center"  class="  text-danger" >CONTROL DE REGISTRO DE USUARIOS</h2>
 
     <div class="btn-group" aling="center">
