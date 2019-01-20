@@ -1,4 +1,7 @@
 <div class="container">
+
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
     <h2  align="center"  class="  text-danger" >MALINALCO</h2>
 
     <div class="row">
@@ -28,7 +31,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion Turística</h2>
+            <h2 align="center" class="  text-danger"  >Informacion Turística</h2>
 
             <div class="row">
 
@@ -51,7 +54,7 @@
                         <img class="card-img-top" src="Public/img/malifest.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
                             <h5 class="card-title border-bottom pb-3">Costumbres<a></a></h5>
-                            <p class="card-text">Los habitantes practican antiguas ceremonias utilizando hongos alucinógenos como medio para sanar, los chamanes o curanderos los utilizan con frecuencia sobre todo en épocas de lluvia cuando estos abundan en esa zona, los niños más pequeños son los encargados de la recolección de dichos hongos ya que para las ceremonias.</p>
+                            <p class="card-text">Los habitantes practican antiguas ceremonias utilizando hongos alucinógenos como medio para sanar, los chamanes o curanderos los utilizan con frecuencia sobre todo en épocas de lluvia cuando estos abundan en esa zona, los niños más pequeños son los encargados de la recolección de dichos hongos ya que para las ceremonias. costumbres antiguas y muy clasicas del lugar, no olvides visitarnos.Malinalco Mexico</p>
                         </div>
                         <br><br>
                     </div>
@@ -85,7 +88,7 @@
                     <img class="card-img-top" src="Public/img/malinalco3.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Las 10 capillas<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">San Nicolás Tolentino, Jesús María, Santa María, San Pedro, San Guillermo, San Martín, La Soledad, San Andrés, San Juan y Santa Mónica.</p>
+                        <p class="card-text">San Nicolás Tolentino, Jesús María, Santa María, San Pedro, San Guillermo, San Martín, La Soledad, San Andrés, San Juan y Santa Mónica. Visitia este magico Pueblo con encanto</p>
                     </div>
                 </div>
             </div>

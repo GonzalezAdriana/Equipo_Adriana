@@ -1,5 +1,9 @@
 <div class="container">
-    <h2  align="center"  class="  text-danger" >EL ORO</h2>
+
+
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
+    <h2  align="center"  class="  text-danger" >EL ORO HIDALGO</h2>
 
     <div class="row">
         <div class="col-md-12" align="center">
@@ -51,7 +55,7 @@
                         <img class="card-img-top" src="Public/img/orofest.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
                             <h5 class="card-title border-bottom pb-3">Costumbres<a></a></h5>
-                            <p class="card-text">Las tradiciones y costumbres son las herencias y hábitos de nuestra comunidad en nuestros antepasados y actualmente lo viven como un gesto de valor cultural a las creencias, tradiciones y costumbres existentes en la sociedad. Esto conlleva a una comunidad a alcanzar una identidad del lugar donde se hábitat y, hace que los valores culturales sean reconocidos por las personas que visitan cada una de las comunidades. </p>
+                            <p class="card-text">Las tradiciones y costumbres son las herencias y hábitos de nuestra comunidad en nuestros antepasados y actualmente lo viven como un gesto de valor cultural a las creencias y costumbres existentes en la sociedad. Esto conlleva a una comunidad a alcanzar una identidad del lugar donde se hábitat y, hace que los valores culturales sean reconocidos por las personas que visitan las comunidades. </p>
                         </div>
                         <br><br>
                     </div>
@@ -79,7 +83,7 @@
                     <img class="card-img-top" src="Public/img/oro.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Jardín Madero<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Se trata de un apacible lugar, con encantadoras bancas y una densa arboleda, ideal para observar al pueblo y su gente</p>
+                        <p class="card-text">Se trata de un apacible lugar, con encantadoras bancas y una densa arboleda, ideal para observar al pueblo y su gente. Visitia este magico Pueblo con encanto durante tu periodo vacacional. </p>
                     </div>
                 </div>
             </div>
@@ -88,7 +92,7 @@
                     <img class="card-img-top" src="Public/img/oro1.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Capilla de Santa María de Guadalupe<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">La fachada de este templo es sobria pero imponente, gracias a sus dos campanarios de estilo neoclásico.</p>
+                        <p class="card-text">La fachada de este templo es sobria pero imponente, gracias a sus dos campanarios de estilo neoclásico. Lugar de relajacion para tus vacaciones inigualables.</p>
                     </div>
                 </div>
             </div>

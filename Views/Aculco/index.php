@@ -1,4 +1,7 @@
 <div class="container">
+    
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
     <h2  align="center"  class="  text-danger" >ACULCO</h2>
 
 
@@ -29,7 +32,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de Aculco</h2>
+            <h2 align="center" class="  text-danger"  >Informacion acerca de Aculco</h2>
 
             <div class="row">
 
@@ -96,7 +99,7 @@
                     <img class="card-img-top" src="Public/img/acu2.jpg" alt="Card image cap"width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">El Santuario del Señor de Nenthé<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">luce una arquitectura moderna, aunque su origen es antiquísimo. Fue erigida en 1702 en torno a la veneración del santo, al que diversas leyendas describen como muy milagroso, como cuando una severa sequía incendió el pueblo y la imagen del también llamado “Señor del Agua”.</p>
+                        <p class="card-text"> Fue erigida en 1702 en torno a la veneración del santo, al que diversas leyendas describen como muy milagroso, como cuando una severa sequía incendió el pueblo y la imagen del también llamado “Señor del Agua”.</p>
                     </div>
                     <br>
                 </div>

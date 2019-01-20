@@ -4,7 +4,10 @@
 <h5 class="card-title border-bottom pb-3">...</h5>
 
 <div class="container">
+     <a href="https://www.contadorvisitasgratis.com" title="contador web"><img src="https://counter5.wheredoyoucomefrom.ovh/private/contadorvisitasgratis.php?c=dyc5mcx155n8q5s3nr8wd6y8mnylrpd9" border="0" title="contador web" ></a>
+
  <h2 align="center" class="  text-danger">PUEBLOS MAGICOS DEL ESTADO DE MÉXICO</h2>
+
    <h5 align="center" class="card-title border-bottom pb-3">Tesoros Turísticos  </h5>
 
                 
@@ -28,7 +31,7 @@
                 <img class="card-img-top" src="Public/img/oro.jpg" alt="Card image cap" width="150" height="220">
                 <div class="card-body">
                     <h5 class="card-title border-bottom pb-3">El Oro</h5>
-                    <p class="card-text">Pueblo Magico en el Estado de México, es una de las antiguas glorias mineras de esta entidad del país y aún es un imán turístico.</p>
+                    <p class="card-text">Pueblo Magico en el Estado de México, es una de las antiguas glorias mineras de esta entidad del país y aún es un imán turístico. Visitia este magico Pueblo con encanto</p>
 
                     <a href="<?php echo URL?>Oro" class="float-right">Leer más  <i class="fas fa-angle-double-right"></i></a>
 
@@ -78,7 +81,7 @@
                 <img class="card-img-top" src="Public/img/acu.jpg" alt="Card image cap"width="150" height="220">
                 <div class="card-body">
                     <h5 class="card-title border-bottom pb-3">Aculco </h5>
-                    <p class="card-text">Pueblo Magico en el Estado de México, este pintoresco pueblo tiene la característica de tener muy cercano todavía a habitantes de la cultura Otomi.</p>
+                    <p class="card-text">Pueblo Magico en el Estado de México, este pintoresco pueblo tiene la característica de tener muy cercano todavía a habitantes de la cultura Otomi. Visitia este magico Pueblo con encanto</p>
 
                     <a href="<?php echo URL?>Aculco" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>
                 </div>
@@ -120,7 +123,7 @@
                 <img class="card-img-top" src="Public/img/marti.jpg" alt="Card image cap" width="150" height="220">
                 <div class="card-body">
                     <h5 class="card-title border-bottom pb-3">San Martin de las Piramides</h5>
-                    <p class="card-text">San Martin de las Piramides  Pueblo Mágico del Estado de México, por el área prehispánica que se encuentra en su territorio.</p>
+                    <p class="card-text">San Martin de las Piramides  Pueblo Mágico del Estado de México, por el área prehispánica que se encuentra en su territorio. Visitia este magico Pueblo con encanto</p>
                     <a href="<?php echo URL?>SanMartin" class="float-right">Leer más <i class="fas fa-angle-double-right"></i></a>
                 </div>
 
@@ -128,8 +131,7 @@
         </div><br><br>
 
 
-   <br>
-    </div><br><br><br>
+    </div>
 </div>
 
 <br><br><br>

@@ -1,4 +1,7 @@
 <div class="container">
+
+<h5 class="card-title border-bottom pb-3">...</h5>
+<br>
     <h2  align="center"  class="  text-danger" >VALLE DE BRAVO</h2>
 
     <div class="row">
@@ -25,6 +28,8 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
+
+<br>
                 <h2 align="center" class="  text-danger"  >Informacion Turistica</h2>
 
             <div class="row">
@@ -49,21 +54,16 @@
                         <img class="card-img-top" src="Public/img/vallefest.jpg" alt="Card image cap"width="1000" height="300">
                         <div class="card-body">
                             <h5 class="card-title border-bottom pb-3">Algunas costumbres<a></a></h5>
-                            <p class="card-text">En marzo, por ejemplo, se realiza el Festival Vallesano, el cual es un acontecimiento por demás esperado en la zona. Incluye actividades deportivas, paseos grupales a caballo, eventos gastronómicos, así como también espectáculos culturales y artísticos. El 3 de mayo, se realiza la tradicional Feria de Santa María en donde se le rinde culto al Cristo Negro. Los mayordomos del evento efectúan una novena y una celebración especial en la fecha señalada, en el marco de la cual se efectúan mojigangas, peregrinaciones masivas, toritos y espectáculos de fuegos artificiales. El alimento que más se consume en Valle de Bravo durante estos días, es el mole.</p>
+                            <p class="card-text">En marzo, por ejemplo, se realiza el Festival Vallesano, el cual es un acontecimiento por demás esperado en la zona. Incluye actividades deportivas, paseos grupales a caballo, eventos gastronómicos, así como también espectáculos culturales y artísticos. El 3 de mayo, se realiza la tradicional Feria de Santa María en donde se le rinde culto al Cristo Negro. El alimento que más se consume en Valle de Bravo durante estos días, es el mole.</p>
                         </div>
-                        <br><br>
+                        
                     </div>
-                    <br><br>
+                    
                 </div>
 
-
-
-                <br><br>
                 <div class="col-md-6">
 
-                <div class="row" align="right">
-
-          
+                <div class="row" align="right">          
 
 
             </div>
@@ -78,7 +78,7 @@
                     <img class="card-img-top" src="Public/img/vallela.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Presa Miguel Aleman<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Valle de Bravo cuenta con una laguna en la cual se puede disfutar de un agradable paseo en lancha o tur turistico y redaccion de historias de su creacion.</p>
+                        <p class="card-text">Valle de Bravo cuenta con una laguna en la cual se puede disfutar de un agradable paseo en lancha o tur turistico y redaccion de historias de su creacion. Visitia este magico Pueblo con encanto</p>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                     <img class="card-img-top" src="Public/img/valle3.jpg" alt="Card image cap"width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Mirador La Peña<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Uno de los sitios emblemáticos del lugar, conocida como la gran montaña misteriosa, formada hace más de 150 millones de años. Con una altura de 3000 metros sobre el nivel conocerás los secretos arqueológicos de la civilización Matlatzinca.</p>
+                        <p class="card-text">Uno de los sitios emblemáticos del lugar, conocida como la gran montaña misteriosa, formada hace más de 150 millones de años. Con una altura de 3000 metros sobre el nivel de la presa.</p>
                     </div>
                     <br>
                 </div>

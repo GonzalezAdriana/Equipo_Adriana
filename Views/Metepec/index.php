@@ -1,5 +1,8 @@
 <div class="container">
-    <h2  align="center"  class="  text-danger" >METEPEC</h2>
+    
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
+    <h2  align="center"  class="  text-danger" >METEPEC, MÈXICO</h2>
 
     <div class="row">
         <div class="col-md-12" align="center">
@@ -28,7 +31,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de Metepec</h2>
+            <h2 align="center" class="  text-danger"  >Informacion acerca de Metepec</h2>
 
             <div class="row">
 
@@ -51,7 +54,7 @@
                         <img class="card-img-top" src="Public/img/metepec3.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
                             <h5 class="card-title border-bottom pb-3">Costumbres<a></a></h5>
-                            <p class="card-text">Cerca del 14 de febrero se lleva a cabo el Festival del Amor, en el que se realiza la lectura de la leyenda de San Valentín y las plazas se llenan de parejas bailando sones y danzones, música de mariachi, rondallas y grupos musicales reconocidos a nivel nacional e internacional.</p>
+                            <p class="card-text">Cerca del 14 de febrero se lleva a cabo el Festival del Amor, en el que se realiza la lectura de la leyenda de San Valentín y las plazas se llenan de parejas bailando sones y danzones, música de mariachi, rondallas y grupos musicales reconocidos a nivel nacional e internacional. Visitia este magico Pueblo con encanto</p>
                         </div>
                         <br><br>
                     </div>
@@ -78,7 +81,7 @@
                     <img class="card-img-top" src="Public/img/metepec2.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">La riqueza natural <a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">la región trajo consigo un florecimiento cultural y artístico, sembrando la semilla de la larga tradición alfarera que ha permeado hasta nuestros días.</p>
+                        <p class="card-text">la región trajo consigo un florecimiento cultural y artístico, sembrando la semilla de la larga tradición alfarera que ha permeado hasta nuestros días. Costumbres y tradiciones del estado.</p>
                     </div>
                 </div>
             </div>
@@ -96,7 +99,7 @@
                     <img class="card-img-top" src="Public/img/mete.jpg" alt="Card image cap"width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">La Iglesia del Calvario<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Que se ha convertido en todo un símbolo del pueblo por su ubicación en las faldas del Cerro de los Magueyes.</p>
+                        <p class="card-text">Que se ha convertido en todo un símbolo del pueblo por su ubicación en las faldas del Cerro de los Magueyes. Visitia este magico Pueblo con encanto, especial para relajaciòn incomparable. </p>
                     </div>
                     <br>
                 </div>

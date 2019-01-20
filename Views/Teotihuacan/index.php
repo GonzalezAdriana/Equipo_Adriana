@@ -1,4 +1,7 @@
 <div class="container">
+    
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
     <h2  align="center"  class="  text-danger" >TEOTIHUACAN</h2>
 
     <div class="row">
@@ -28,7 +31,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de Teotihuacan</h2>
+            <h2 align="center" class="  text-danger"  >Informacion acerca de Teotihuacan</h2>
 
             <div class="row">
 
@@ -50,7 +53,7 @@
                         <img class="card-img-top" src="Public/img/teo.jpg" alt="Card image cap"width="250" height="220">
                         <div class="card-body">
                             <h5 class="card-title border-bottom pb-3">Costumbres<a></a></h5>
-                            <p class="card-text">Otro de los recintos sobresalientes en este sitio arqueológico es el Templo de los Caracoles Emplumados, basamento piramidal con muros en talud que tienen pintadas directamente sobre la roca representaciones de aves en procesión distribuidas en cuatro tableros policromados. Al frente, en un espacio poco explorado, puede observarse un edificio decorado con discos rojos. </p>
+                            <p class="card-text">Otro de los recintos sobresalientes en este sitio arqueológico es el Templo de los Caracoles Emplumados, basamento piramidal con muros en talud que tienen pintadas directamente sobre la roca representaciones de aves en procesión distribuidas en cuatro tableros policromados.  </p>
                         </div>
                         <br><br>
                     </div>
@@ -84,7 +87,7 @@
                     <img class="card-img-top" src="Public/img/teo3.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Teotihuacán se viste de colores<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">Durante las fiestas patronales, Teotihuacán se viste de colores y recibe a sus visitantes con música, actividades culturales y muestra gastronómica y artesanal, sobre todo en la del 24 de junio, día de San Juan Bautista, una celebración relacionada con el culto a Tláloc</p>
+                        <p class="card-text">Durante las fiestas patronales, Teotihuacán se viste de colores y recibe a sus visitantes con música, actividades culturales y muestra gastronómica y artesanal, sobre todo en la del 24 de junio, día de San Juan Bautista.</p>
                     </div>
                 </div>
             </div>

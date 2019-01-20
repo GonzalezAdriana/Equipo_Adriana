@@ -1,4 +1,7 @@
 <div class="container">
+    
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
     <h2  align="center"  class="  text-danger" >TEPOTZOTLAN</h2>
 
     <div class="row">
@@ -28,7 +31,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de Tepotzotlan</h2>
+            <h2 align="center" class="  text-danger"  >Informacion acerca de Tepotzotlan</h2>
             <div class="row">
 
 
@@ -94,7 +97,7 @@
                     <img class="card-img-top" src="Public/img/Tepotzotlan2.jpg" alt="Card image cap"width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">La Iglesia de San Pedro Apóstol<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">catalogada entre los diez templos con arquitectura maravillosa del Estado de México.</p>
+                        <p class="card-text">catalogada entre los diez templos con arquitectura maravillosa del Estado de México. Visitia este magico Pueblo con encanto en tus vacasiones para una ruta especial.</p>
                     </div>
                     <br>
                 </div>

@@ -1,4 +1,7 @@
 <div class="container">
+    
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
     <h2  align="center"  class="  text-danger" >SAN MARTIN DE LAS PIRAMIDES</h2>
 
     <div class="row">
@@ -28,7 +31,7 @@
 
 </div>
             <br>
-            <h2 align="left" class="  text-danger"  >Informacion acerca de San Martin</h2>
+            <h2 align="center" class="  text-danger"  >Informacion acerca de San Martin</h2>
 
             <div class="row">
 
@@ -86,7 +89,7 @@
                     <img class="card-img-top" src="Public/img/s3.jpg" alt="Card image cap" width="150" height="220">
                     <div class="card-body">
                         <h5 class="card-title border-bottom pb-3">Fiesta Patronal<a href="#" class="float-right d-inline-flex share"></a></h5>
-                        <p class="card-text">En esta fiesta se incluyen misas, procesiones, serenatas pirotecnia, y coloridas y vistosas danzas típicas, como la de moros y cristianos.</p>
+                        <p class="card-text">En esta fiesta se incluyen misas, procesiones, serenatas pirotecnia, y coloridas y vistosas danzas típicas, como la de moros y cristianos. Visitia este magico Pueblo con encanto</p>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,9 @@
 <div class="card mb-3">
  
   <div class="card-body">
-  
+    
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
  <h2 align="center" class="  text-danger">POSTALES VALLE</h2>
   <h2 align="center" class="text-danger">"Pueblo Antiguo, Noble Amigo"</h2>
 
@@ -113,12 +115,9 @@
         </div>
 
         <br>
-
-                        
-
-
     </div>
 </div>
+
 
 
 
@@ -261,7 +260,9 @@
     });
 </script>
 
-
   </div>
+
 </div
+
+
 

@@ -2,7 +2,10 @@
 <div class="card mb-3">
  
   <div class="card-body">
-  
+
+    
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
  <h2 align="center" class="  text-danger">POSTALES EL ORO</h2>
   <h2 align="center" class="  text-danger">"El Oro Hidalgo, Estado de México"</h2>
 

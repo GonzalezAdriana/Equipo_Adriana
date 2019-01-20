@@ -3,6 +3,8 @@
  
   <div class="card-body">
   
+<h5 class="card-title border-bottom pb-3">...</h5>
+  <br>
  <h2 align="center" class="  text-danger">POSTALES TEOTIHUACAN</h2>
   <h2 align="center" class="  text-danger">"San Juan Teotihuacan, México"</h2>
 
